@@ -27,6 +27,10 @@
     "message": "Cargándose...",
     "description": "Filler text when a component is not ready yet"
   },
+  "common.loginrequired": {
+    "message": "Inicia sesión para realizar esta acción",
+    "description": "Error message"
+  },
   "common.password#ph": {
     "message": "contraseña",
     "description": "Placeholder text for form field"
@@ -327,6 +331,10 @@
     "message": "Nota: este es un bucket de solo lectura. Los cambios que realice no se conservarán después de cerrar la ventana de su navegador.",
     "description": "Paragraph of body text"
   },
+  "javascript.console.readonly#alert@2": {
+    "message": "Nota: este depósito es solo de lectura y las ediciones que hagas son temporales. Para que tus ediciones sean permanentes, bifurca el bucket haciendo clic en el nombre del bucket:",
+    "description": "Error message"
+  },
   "javascript.console.reconnect#btn": {
     "message": "Haga clic aquí para volver a conectarse",
     "description": "Button text"
@@ -410,6 +418,26 @@
   "javascript.togglesharing.p2": {
     "message": "Debe eleminarse mediante la ejecución de este comando en el símbolo del sistema:",
     "description": "Call to action, followed by a computer command"
+  },
+  "modals.bucketinfo.btn1": {
+    "message": "Bifurcar este bucket",
+    "description": "Button text"
+  },
+  "modals.bucketinfo.btn1p": {
+    "message": "Bifurcar este proyecto",
+    "description": "Button text"
+  },
+  "modals.bucketinfo.label1": {
+    "message": "Creado a las:",
+    "description": "Label, followed by a date and time"
+  },
+  "modals.bucketinfo.label2": {
+    "message": "Bifurcado desde:",
+    "description": "Label, followed by a link"
+  },
+  "modals.bucketinfo.p1": {
+    "message": "Haz clic a continuación para hacer tu propia copia de este bucket o proyecto.",
+    "description": "Call to action, paragraph of body text"
   },
   "modals.changepwd.p1": {
     "message": "Ingrese su nueva contraseña a continuación.\t  Para eliminar la contraseña y desactivar los inicios de sesión tomando en cuenta la contraseña, deje en blanco el campo de contraseña y haga clic en \"Guardar contraseña\".",

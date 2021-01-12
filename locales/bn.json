@@ -332,7 +332,7 @@
     "description": "Paragraph of body text"
   },
   "javascript.console.readonly#alert@2": {
-    "message": "দ্রষ্টব্য: এটি একটি রিড-ওনলি বাকেট; আপনার সম্পাদনা অস্থায়ী। আপনার সম্পাদনা স্থায়ী করতে, বাকেট নাম ক্লিক করে বাকেট ফর্ক করুন:",
+    "message": "দ্রষ্টব্য: এটি একটি রিড-ওনলি বালতি; আপনার সম্পাদনা অস্থায়ী। আপনার সম্পাদনা স্থায়ী করতে, বালতি নাম ক্লিক করে বালতি ফর্ক করুন:",
     "description": "Error message"
   },
   "javascript.console.reconnect#btn": {
@@ -420,7 +420,7 @@
     "description": "Call to action, followed by a computer command"
   },
   "modals.bucketinfo.btn1": {
-    "message": "এই বাকেটটি ফর্ক করুন",
+    "message": "এই বালতি ফর্ক করুন",
     "description": "Button text"
   },
   "modals.bucketinfo.btn1p": {
@@ -436,7 +436,7 @@
     "description": "Label, followed by a link"
   },
   "modals.bucketinfo.p1": {
-    "message": "এই বাকেটটির বা প্রকল্পের নিজস্ব অনুলিপি তৈরি করতে নিচে ক্লিক করুন।",
+    "message": "এই বালতি বা প্রকল্পের নিজস্ব অনুলিপি তৈরি করতে নিচে ক্লিক করুন।",
     "description": "Call to action, paragraph of body text"
   },
   "modals.changepwd.p1": {
