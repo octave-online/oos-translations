@@ -200,7 +200,7 @@
     "description": "Site Title (does not need translation)"
   },
   "header.sidebar.changeemail#body": {
-    "message": "هل قمت بتسجيل الدخول من قبل ولكنك بحاجة إلى تغيير عنوان بريدك الإلكتروني؟ انقر على \ ملاحظات \" وأنشئ تذكرة. سوف نغيره من أجلك.",
+    "message": " هل قمت بتسجيل الدخول من قبل ولكنك بحاجة إلى تغيير عنوان بريدك الإلكتروني؟ انقر فوق \ ملاحظات \ وقم بإنشاء تذكرة. سوف نغيره من أجلك.",
     "description": "(OBSOLETE) Paragraph of body text"
   },
   "header.sidebar.changelayout#btn": {
