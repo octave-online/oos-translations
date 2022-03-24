@@ -8,7 +8,7 @@
     "description": "Label, followed by another sentence"
   },
   "common.dismiss#btn": {
-    "message": "ডিসমিস",
+    "message": "খারিজ",
     "description": "Button text"
   },
   "common.email#ph": {
@@ -116,7 +116,7 @@
     "description": "Button text"
   },
   "editor.toolbar.rename#btn": {
-    "message": "রিনেম ফাইল",
+    "message": "ফাইল নাম পরিবর্তন করুন",
     "description": "Button text"
   },
   "editor.toolbar.run#btn": {
@@ -168,11 +168,11 @@
     "description": "Section header"
   },
   "header.buckets.delete#btn": {
-    "message": "ডিলিট বাকেট",
+    "message": "বাকেট মুছুন",
     "description": "Button text"
   },
   "header.buckets.delete#btn@2": {
-    "message": "ডিলিট বাকেট/প্রকল্প",
+    "message": "বাকেট/প্রকল্প মুছুন",
     "description": "Button text"
   },
   "header.buckets.title": {
@@ -268,7 +268,7 @@
     "description": "Button text"
   },
   "header.sidebar.signingoogle#btn": {
-    "message": "ইমেল দিয়ে সাইন ইন করুন",
+    "message": "Google দিয়ে সাইন ইন করুন",
     "description": "Button text"
   },
   "header.sidebar.signinpassword#btn": {
@@ -276,7 +276,7 @@
     "description": "Button text"
   },
   "header.sidebar.signout#btn": {
-    "message": "সাইন আউট",
+    "message": "প্রস্থান করুন",
     "description": "Button text"
   },
   "header.sidebar.support#btn": {
@@ -292,7 +292,7 @@
     "description": "Button text"
   },
   "header.site.adfallback#body": {
-    "message": "আপনার অংশটি করুন: মার্কিন ডলার $3/প্রতি মাস অবদান রেখে ফ্রি সফটওয়্যারটি সমর্থন করুন।",
+    "message": "আপনার অংশটি করুন: মার্কিন ডলার $৩/প্রতি মাস অবদান রেখে ফ্রি সফটওয়্যারটি সমর্থন করুন।",
     "description": "Text shown when advertisement is unavailable"
   },
   "header.site.menu#btn": {
@@ -308,7 +308,7 @@
     "description": "Label, followed by a list"
   },
   "header.students.title": {
-    "message": "স্টুডেন্টস",
+    "message": "শিক্ষার্থী",
     "description": "Section header"
   },
   "header.students.unenroll#btn": {
@@ -316,7 +316,7 @@
     "description": "Button text"
   },
   "javascript.buckets.error1": {
-    "message": "ভুল হয়েছে: অযোগ্য সংক্ষিপ্ত লিংক। কমপক্ষে 5 টি বর্ণ, সংখ্যা, -, এবং _।",
+    "message": "ভুল হয়েছে: অযোগ্য সংক্ষিপ্ত লিংক। কমপক্ষে ৫ টি বর্ণ, সংখ্যা, -, এবং _।",
     "description": "Paragraph of body text"
   },
   "javascript.buckets.error2": {
@@ -328,7 +328,7 @@
     "description": "Label for form field"
   },
   "javascript.console.exited#alert": {
-    "message": "অক্টাভে উত্তেজিত। বার্তা:",
+    "message": "অক্টেভ প্রস্থান হয়েছে। বার্তা:",
     "description": "Label, followed by an error code"
   },
   "javascript.console.payload#alert": {
@@ -368,7 +368,7 @@
     "description": "Label, followed by a URL link to documentation"
   },
   "javascript.newfile.helloworld": {
-    "message": "হ্যালো ওয়ার্ল্ড",
+    "message": "ওহে বিশ্ব",
     "description": "Sample string used in programming"
   },
   "javascript.newfile.label": {
@@ -592,7 +592,7 @@
     "description": "Call to action, paragraph of body text"
   },
   "modals.password.subhead1": {
-    "message": "নিউ ইউসার? পাসওয়ার্ড ভুলে গেছেন?",
+    "message": "নতুন ব্যবহারকারী? আপনি কি পাসওয়ার্ড ভুলে গেছেন?",
     "description": "Rhetorical question asked of the user"
   },
   "modals.patience.p1": {

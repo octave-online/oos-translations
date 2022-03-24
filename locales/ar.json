@@ -1,0 +1,794 @@
+{
+  "common.bucket": {
+    "message": "دلو",
+    "description": "Name for a collection of files shared with other users; do not translate in Latin-script languages"
+  },
+  "common.caution#label": {
+    "message": "الحذر:",
+    "description": "Label, followed by another sentence"
+  },
+  "common.dismiss#btn": {
+    "message": "رفض",
+    "description": "Button text"
+  },
+  "common.email#ph": {
+    "message": "عنوان بريد الكتروني",
+    "description": "Placeholder text for form field"
+  },
+  "common.https#btn": {
+    "message": "التبديل إلى اتصال آمن (https)",
+    "description": "Button text"
+  },
+  "common.https#p": {
+    "message": "أنت تستخدم اتصالاً غير آمن (http). قد يتمكن الأشخاص من رؤية ما ترسله.",
+    "description": "Paragraph of body text"
+  },
+  "common.loading#ui": {
+    "message": "جاري تحميل...",
+    "description": "Filler text when a component is not ready yet"
+  },
+  "common.loginrequired": {
+    "message": "الرجاء تسجيل الدخول لتنفيذ هذا الإجراء",
+    "description": "Error message"
+  },
+  "common.password#ph": {
+    "message": "كلمه السر",
+    "description": "Placeholder text for form field"
+  },
+  "common.project": {
+    "message": "المشروع",
+    "description": "Name for a workspace with files for editing and collaboration"
+  },
+  "common.submit#btn": {
+    "message": "إرسال",
+    "description": "Button text"
+  },
+  "constants.shortlink_prefix": {
+    "message": "https://{{config.redirect.hostname}}/",
+    "description": "DO NOT TRANSLATE"
+  },
+  "editor.tips.a1": {
+    "message": "القائمة الكاملة",
+    "description": "Link text"
+  },
+  "editor.tips.dd1": {
+    "message": "اعرض قائمة الإكمال التلقائي",
+    "description": "Description of what a button will do"
+  },
+  "editor.tips.dd2": {
+    "message": "حفظ الملف",
+    "description": "Description of what a button will do"
+  },
+  "editor.tips.dd3": {
+    "message": "قم بتشغيل الملف",
+    "description": "Description of what a button will do"
+  },
+  "editor.tips.dd4": {
+    "message": "اضبط التركيز على الموجه",
+    "description": "Description of what a button will do"
+  },
+  "editor.tips.p1": {
+    "message": "سيتم حفظ الملفات التي تنشئها على {{config.client.app_name}} في المرة القادمة التي تزورها فيها. سيتم حذفها بعد 6 أشهر من عدم النشاط.",
+    "description": "Paragraph of body text"
+  },
+  "editor.tips.p2": {
+    "message": "الاختصارات الشائعة:",
+    "description": "Label, followed by a list"
+  },
+  "editor.tips.subhead1": {
+    "message": "اختصارات لوحة المفاتيح",
+    "description": "Section header"
+  },
+  "editor.tips.title": {
+    "message": "نصائح وخدع",
+    "description": "Section header"
+  },
+  "editor.toolbar.create#btn": {
+    "message": "إنشاء ملف فارغ",
+    "description": "Button text"
+  },
+  "editor.toolbar.delete#btn": {
+    "message": "حذف ملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.download#btn": {
+    "message": "تحميل الملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.drop#ui": {
+    "message": "قم بإسقاط الملفات هنا للتحميل",
+    "description": "Instruction for the user"
+  },
+  "editor.toolbar.files#title": {
+    "message": "الملفات",
+    "description": "Section header"
+  },
+  "editor.toolbar.history#btn": {
+    "message": "تاريخ إصدار الملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.print#btn": {
+    "message": "طباعة الملفات",
+    "description": "Button text"
+  },
+  "editor.toolbar.refresh#btn": {
+    "message": "تحديث الملفات",
+    "description": "Button text"
+  },
+  "editor.toolbar.rename#btn": {
+    "message": "إعادة تسمية الملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.run#btn": {
+    "message": "النصي تشغيل",
+    "description": "Button text"
+  },
+  "editor.toolbar.run#ui": {
+    "message": "يركض",
+    "description": "Button text to evaluate a script (appears prominently on page)"
+  },
+  "editor.toolbar.save#btn": {
+    "message": "احفظ الملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.share#btn": {
+    "message": "مشاركة الملف في دلو جديد",
+    "description": "Button text"
+  },
+  "editor.toolbar.toolbar#btn": {
+    "message": "إظهار شريط الأدوات",
+    "description": "Button text"
+  },
+  "editor.toolbar.upload#btn": {
+    "message": "رفع ملف",
+    "description": "Button text"
+  },
+  "editor.toolbar.wrap#btn": {
+    "message": "تبديل التفاف الكلمات",
+    "description": "Button text"
+  },
+  "editor.unsupported.li1": {
+    "message": "نوع الملف غير مدعوم في هذا المحرر.",
+    "description": "Error text"
+  },
+  "editor.unsupported.li2": {
+    "message": "الملف بتنسيق ثنائي ، مثل الصور.",
+    "description": "Error text"
+  },
+  "editor.unsupported.li3": {
+    "message": "الملف كبير جدًا ولا يمكن تحميله في المحرر.",
+    "description": "Error text"
+  },
+  "editor.unsupported.p1": {
+    "message": "لا يمكن تحرير الملف المحدد حاليًا عبر الإنترنت. لا يزال بإمكانك استخدام شريط الأدوات أعلاه لإعادة تسمية الملف وتنزيله وحذفه. قد تشمل الأسباب ما يلي:",
+    "description": "Error text, ending with a label, followed by a list"
+  },
+  "editor.unsupported.title": {
+    "message": "{{config.client.app_name}} محرر تفاعلي",
+    "description": "Section header"
+  },
+  "header.buckets.delete#btn": {
+    "message": "حذف المجموعة",
+    "description": "Button text"
+  },
+  "header.buckets.delete#btn@2": {
+    "message": "حذف الحاوية / المشروع",
+    "description": "Button text"
+  },
+  "header.buckets.title": {
+    "message": "دلاء الخاص بك:",
+    "description": "Label, followed by a number"
+  },
+  "header.buckets.title@2": {
+    "message": "دلاء ومشاريع:",
+    "description": "Label, followed by a number"
+  },
+  "header.meta.official.desc": {
+    "message": "أنشئ نصوصًا للحوسبة العلمية وشاركها مع GNU Octave. مجاني ومفتوح المصدر. يعمل في متصفحك ، بما في ذلك أجهزة Chromebook و iPad والجهاز اللوحي والهاتف الذكي.",
+    "description": "Paragraph of body tex"
+  },
+  "header.meta.official.title": {
+    "message": "{{config.client.app_name}} · Cloud IDE متوافق مع MATLAB",
+    "description": "Site Title"
+  },
+  "header.meta.server.desc": {
+    "message": "تعمل قوة {{config.client.app_name}} على أجهزة مخصصة. مستخدمة بموجب ترخيص AGPL.",
+    "description": "Paragraph of body tex"
+  },
+  "header.meta.server.title": {
+    "message": "{{config.client.app_name}}",
+    "description": "Site Title (does not need translation)"
+  },
+  "header.sidebar.changeemail#body": {
+    "message": "هل قمت بتسجيل الدخول من قبل ولكنك بحاجة إلى تغيير عنوان بريدك الإلكتروني؟ انقر على \ "ملاحظات \" وأنشئ تذكرة. سوف نغيره من أجلك.",
+    "description": "(OBSOLETE) Paragraph of body text"
+  },
+  "header.sidebar.changelayout#btn": {
+    "message": "تغيير / إعادة تعيين التخطيط",
+    "description": "Button text"
+  },
+  "header.sidebar.changepassword#btn": {
+    "message": "تغيير كلمة المرور",
+    "description": "Button text"
+  },
+  "header.sidebar.changetheme#btn": {
+    "message": "غير الخلفية",
+    "description": "Button text"
+  },
+  "header.sidebar.createnewproject#btn": {
+    "message": "إنشاء مشروع جديد",
+    "description": "Button text"
+  },
+  "header.sidebar.disablesharing#btn": {
+    "message": "تعطيل المشاركة",
+    "description": "Button text"
+  },
+  "header.sidebar.disablesharing#btn@2": {
+    "message": "تعطيل التعاون",
+    "description": "Button text"
+  },
+  "header.sidebar.enablesharing#btn": {
+    "message": "مساحة العمل المشتركة",
+    "description": "Button text"
+  },
+  "header.sidebar.enablesharing#btn@2": {
+    "message": "تمكين التعاون",
+    "description": "Button text"
+  },
+  "header.sidebar.enablesharing#tooltip": {
+    "message": "يتيح تمكين التعاون للآخرين تعديل مساحة العمل بالمنزل في الوقت الفعلي.",
+    "description": "Tooltip (additional explanation of what a button will do)"
+  },
+  "header.sidebar.enablesharingp#tooltip": {
+    "message": "يتيح تمكين التعاون للآخرين تحرير هذا المشروع في الوقت الفعلي.",
+    "description": "Tooltip (additional explanation of what a button will do)"
+  },
+  "header.sidebar.github#btn": {
+    "message": "مشروع جيثب",
+    "description": "Link text"
+  },
+  "header.sidebar.inlineplots#btn": {
+    "message": "تقديم مؤامرات جديدة مضمنة",
+    "description": "Button text"
+  },
+  "header.sidebar.legal#btn": {
+    "message": "سياسة الخصوصية واتفاقية ترخيص المستخدم النهائي",
+    "description": "Button text"
+  },
+  "header.sidebar.patreon#btn": {
+    "message": "قم بالترقية مع Patreon",
+    "description": "Button text; \"Patreon\" should not be translated"
+  },
+  "header.sidebar.sharedesc#body": {
+    "message": "يمكن للآخرين استخدام الارتباط التالي للاتصال بمساحة العمل الخاصة بك.",
+    "description": "Paragraph of body text"
+  },
+  "header.sidebar.signinemail#btn": {
+    "message": "تسجيل الدخول باستخدام البريد الإلكتروني",
+    "description": "Button text"
+  },
+  "header.sidebar.signingoogle#btn": {
+    "message": "الدخول مع جوجل",
+    "description": "Button text"
+  },
+  "header.sidebar.signinpassword#btn": {
+    "message": "تسجيل الدخول بكلمة مرور",
+    "description": "Button text"
+  },
+  "header.sidebar.signout#btn": {
+    "message": "خروج",
+    "description": "Button text"
+  },
+  "header.sidebar.support#btn": {
+    "message": "التعليقات والدعم",
+    "description": "Button text"
+  },
+  "header.sidebar.textwrap#btn": {
+    "message": "لف الخطوط الطويلة في لوحة التحكم",
+    "description": "Button text"
+  },
+  "header.sidebar.twitter#btn": {
+    "message": "تابع على تويتر",
+    "description": "Button text"
+  },
+  "header.site.adfallback#body": {
+    "message": "قم بدورك: ادعم البرمجيات الحرة بالمساهمة بمبلغ 3 دولارات شهريًا.",
+    "description": "Text shown when advertisement is unavailable"
+  },
+  "header.site.menu#btn": {
+    "message": "قائمة",
+    "description": "Button text to show the menu (appears prominently on page)"
+  },
+  "header.students.reenroll#btn": {
+    "message": "نقل",
+    "description": "Button text"
+  },
+  "header.students.subhead1": {
+    "message": "رمز:",
+    "description": "Label, followed by a list"
+  },
+  "header.students.title": {
+    "message": "الطلاب",
+    "description": "Section header"
+  },
+  "header.students.unenroll#btn": {
+    "message": "إلغاء التسجيل",
+    "description": "Button text"
+  },
+  "javascript.buckets.error1": {
+    "message": "خطأ: ارتباط قصير غير صالح. استخدم ما لا يقل عن 5 أحرف وأرقام و- و _.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.buckets.error2": {
+    "message": "خطأ: هذا الرابط المختصر مأخوذ بالفعل. حاول مرة اخرى.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.buckets.label1": {
+    "message": "أدخل ارتباطًا قصيرًا جديدًا:",
+    "description": "Label for form field"
+  },
+  "javascript.console.exited#alert": {
+    "message": "خروج اوكتاف. رسالة:",
+    "description": "Label, followed by an error code"
+  },
+  "javascript.console.payload#alert": {
+    "message": "إشعار: توقف التنفيذ مؤقتًا بسبب الحمولة الكبيرة",
+    "description": "Paragraph of body text"
+  },
+  "javascript.console.pingtime#label": {
+    "message": "وقت بينغ:",
+    "description": "Label, followed by a number"
+  },
+  "javascript.console.plotwindow#alert": {
+    "message": "يظهر هذا الزر ويخفي نافذة المؤامرة. أدخل تعبيرًا يُنشئ مخططًا.",
+    "description": "Paragraph of body text with call to action"
+  },
+  "javascript.console.readonly#alert": {
+    "message": "ملاحظة: هذا مستودع للقراءة فقط. لن يتم الاستمرار في التغييرات التي تجريها بعد إغلاق نافذة المتصفح.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.console.readonly#alert@2": {
+    "message": "ملاحظة: هذا دلو للقراءة فقط ؛ تعديلاتك مؤقتة. لجعل تعديلاتك دائمة ، افصل الحاوية عن طريق النقر فوق اسم المجموعة:",
+    "description": "Error message"
+  },
+  "javascript.console.reconnect#btn": {
+    "message": "انقر هنا لإعادة الاتصال",
+    "description": "Button text"
+  },
+  "javascript.console.reconnecting#alert": {
+    "message": "انقطع الاتصال. محاولة إعادة الاتصال...",
+    "description": "Paragraph of body text"
+  },
+  "javascript.console.refresh#alert": {
+    "message": "سيؤدي هذا إلى إعادة تحميل ملفاتك من الخادم. ستفقد أي تغييرات غير محفوظة.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.console.seeurl#label": {
+    "message": "يرى:",
+    "description": "Label, followed by a URL link to documentation"
+  },
+  "javascript.newfile.helloworld": {
+    "message": "مرحبا بالعالم",
+    "description": "Sample string used in programming"
+  },
+  "javascript.newfile.label": {
+    "message": "الرجاء إدخال اسم ملف:",
+    "description": "Label for form field"
+  },
+  "javascript.print.p1": {
+    "message": "طبع لـ:",
+    "description": "Label, followed by a name or email"
+  },
+  "javascript.print.p2": {
+    "message": "بدعم من {{config.client.app_name}}",
+    "description": "Body text"
+  },
+  "javascript.rename.alert": {
+    "message": "اسم الملف المحدد موجود بالفعل.",
+    "description": "Body text"
+  },
+  "javascript.rename.label": {
+    "message": "أدخل اسم ملف جديد:",
+    "description": "Label for form field"
+  },
+  "javascript.students.course#label": {
+    "message": "مسار:",
+    "description": "Label, followed by a course code (like \"Math_101\")"
+  },
+  "javascript.students.enroll.p1": {
+    "message": "تحتاج إلى تسجيل الدخول للتسجيل في دورة.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.students.enroll.p2": {
+    "message": ""عند التسجيل في دورة تدريبية ، سيتمكن المدرسون لهذه الدورة التدريبية من الوصول إلى الملفات التي تحفظها. يمكنك إلغاء تسجيلك في أي وقت عن طريق تشغيل ما يلي في موجه الأوامر.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.students.enroll.p3": {
+    "message": "اضغط على إلغاء إذا كنت لا تعرف ما يعنيه أي من هذا.",
+    "description": "Press Cancel if you don't know what any of this means."
+  },
+  "javascript.students.name#label": {
+    "message": "اسم:",
+    "description": "Label, followed by a name or email"
+  },
+  "javascript.students.reenroll.p1": {
+    "message": "أدخل رمز الدورة التي تريد نقل هذا الطالب إليها:",
+    "description": "Label for form field"
+  },
+  "javascript.students.reenroll.p2": {
+    "message": "يتم إعادة تسجيل الطالب التالي. أعد تحميل الصفحة لمشاهدة التحديث.",
+    "description": "Paragraph of body text"
+  },
+  "javascript.students.reenroll.p3": {
+    "message": "خطأ: تعذر العثور على رمز الدورة:",
+    "description": "Label, followed by a course code (like \"Math_101\")"
+  },
+  "javascript.students.unenroll.p1": {
+    "message": "هل أنت متأكد أنك تريد إزالة الطالب التالي من مقررك الدراسي؟",
+    "description": "Rhetorical question asked of the user"
+  },
+  "javascript.togglesharing.p1": {
+    "message": "لا يمكنك تعطيل المشاركة كطالب مسجل في رمز الدورة التدريبية {{config.client.app_name}}:",
+    "description": "Paragraph of body text, followed by a course code (like \"Math_101\")"
+  },
+  "javascript.togglesharing.p2": {
+    "message": "تحتاج إلى إزالة نفسك عن طريق تشغيل هذا الأمر في موجه الأوامر:",
+    "description": "Call to action, followed by a computer command"
+  },
+  "modals.bucketinfo.btn1": {
+    "message": "شوكة هذا دلو",
+    "description": "Button text"
+  },
+  "modals.bucketinfo.btn1p": {
+    "message": "شوكة هذا المشروع",
+    "description": "Button text"
+  },
+  "modals.bucketinfo.btn2": {
+    "message": "تغيير الارتباط القصير",
+    "description": "Button text"
+  },
+  "modals.bucketinfo.label1": {
+    "message": "أنشئت في:",
+    "description": "Label, followed by a date and time"
+  },
+  "modals.bucketinfo.label2": {
+    "message": "متشعب من:",
+    "description": "Label, followed by a link"
+  },
+  "modals.bucketinfo.p1": {
+    "message": "انقر أدناه لعمل نسختك الخاصة من هذه المجموعة أو المشروع.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "modals.changepwd.p1": {
+    "message": "أدخل كلمة المرور الجديدة أدناه. لإزالة كلمة المرور وتعطيل عمليات تسجيل الدخول المستندة إلى كلمة المرور ، اترك حقل كلمة المرور فارغًا وانقر فوق \ "حفظ كلمة المرور \"",
+    "description": "Call to action, paragraph of body text"
+  },
+  "modals.changepwd.submit#btn": {
+    "message": "حفظ كلمة المرور",
+    "description": "Button text"
+  },
+  "modals.changepwd.title": {
+    "message": "تغيير كلمة المرور",
+    "description": "Button text"
+  },
+  "modals.createbucket.label1": {
+    "message": "الملف الرئيسي:",
+    "description": "Section header, followed by a list"
+  },
+  "modals.createbucket.p1": {
+    "message": "\ "bucket \" هي كيفية مشاركة لقطات البرنامج النصي {{config.client.app_name}} أو ملفات البيانات بشكل عام.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.p1@2": {
+    "message": " \ "bucket \" هي طريقة لمشاركة لقطات من البرامج النصية وملفات البيانات.  \ "المشروع \" هو مساحة عمل قابلة للتحرير لتنظيم البرامج النصية وملفات البيانات.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.p2": {
+    "message": "حدد الملفات وانقر فوق زر السهم الأيمن.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "modals.createbucket.p3": {
+    "message": "يتم تشغيل البرنامج النصي 2 \ "خاصتي \" تلقائيًا عند عرض مجموعة واحدة.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.p4": {
+    "message": "بعد الجرس الكلاسيكي ، يتم تحديث فاتورة متصفحك في دلو جديد. يمكنك مشاركة عنوان URL لهذه الصفحة حتى تتم إعادة توجيهك.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.p4p": {
+    "message": "بعد الجرس الكلاسيكي ، يتم تحديث فاتورة متصفحك في مشروعك الجديد.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.p5": {
+    "message": "يمكنك تعيين عنوان URL مخصص للحاوية أو المشروع الخاص بك عبر خدمة الارتباط القصير لدينا على {{config.redirect.hostname}}.",
+    "description": "Paragraph of body text"
+  },
+  "modals.createbucket.subhead1": {
+    "message": "اختياري: أضف المزيد من الملفات",
+    "description": "Call to action, section header"
+  },
+  "modals.createbucket.subhead1@2": {
+    "message": "اختياري: أضف المزيد من الملفات إلى الحاوية",
+    "description": "Call to action, section header"
+  },
+  "modals.createbucket.subhead1p": {
+    "message": "اختياري: نسخ الملفات إلى المشروع",
+    "description": "Call to action, section header"
+  },
+  "modals.createbucket.subhead2": {
+    "message": "الملفات المراد إضافتها",
+    "description": "Section header, followed by a list"
+  },
+  "modals.createbucket.subhead3": {
+    "message": "الملفات في الحاوية",
+    "description": "Section header, followed by a list"
+  },
+  "modals.createbucket.subhead3p": {
+    "message": "الملفات في المشروع",
+    "description": "Section header, followed by a list"
+  },
+  "modals.createbucket.subhead4": {
+    "message": "اختياري: حدد الملف الرئيسي",
+    "description": "Call to action, section header"
+  },
+  "modals.createbucket.subhead5": {
+    "message": "اختياري: عنوان URL مخصص / رابط قصير",
+    "description": "Call to action, section header"
+  },
+  "modals.createbucket.submit#btn": {
+    "message": "إنشاء دلو",
+    "description": "Button text"
+  },
+  "modals.createbucket.submitp#btn": {
+    "message": "أنشئ مشروعًا",
+    "description": "Button text"
+  },
+  "modals.createbucket.title": {
+    "message": "تخصيص الجرافة",
+    "description": "Title of dialog box"
+  },
+  "modals.createbucket.titlep": {
+    "message": "تخصيص المشروع",
+    "description": "Title of dialog box"
+  },
+  "modals.email.label1": {
+    "message": "أدخل عنوان بريدك الالكتروني:",
+    "description": "Call to action, form field label"
+  },
+  "modals.email.p1": {
+    "message": "سيتم إرسال رمز مكون من 11 رقمًا عبر البريد الإلكتروني ستحتاج إلى إدخاله في الشاشة التالية. إذا لم تستلم الرمز الخاص بك ، فيرجى فتح تذكرة دعم للحصول على المساعدة.",
+    "description": "Paragraph of body text"
+  },
+  "modals.history.btn1": {
+    "message": "تشغيل التحكم في الإصدار",
+    "description": "Button text"
+  },
+  "modals.history.btn2": {
+    "message": "إنشاء أرشيف مضغوط",
+    "description": "Button text"
+  },
+  "modals.history.p1": {
+    "message": "يتم تتبع المراجعات التي تتم على ملفاتك بواسطة نظام التحكم في إصدار Git.",
+    "description": "Paragraph of body text"
+  },
+  "modals.history.p2": {
+    "message": "لطلب لقطة ملف مضغوط تم إرسالها إلى بريدك الإلكتروني ، انقر فوق الارتباط أدناه. ملاحظة: إذا قمت بتحرير ملفاتك في هذه الجلسة ، فانقر فوق الزر \ "تحديث الملفات \" أولاً لضمان حصولك على أحدث لقطة.",
+    "description": "Paragraph of body text"
+  },
+  "modals.history.subtitle1": {
+    "message": "التحكم في الإصدار",
+    "description": "Section title"
+  },
+  "modals.history.subtitle2": {
+    "message": "تحميل لقطة",
+    "description": "Section title"
+  },
+  "modals.history.title": {
+    "message": "ملف التاريخ",
+    "description": "Title of dialog box"
+  },
+  "modals.password.p1": {
+    "message": "استخدم خيار تسجيل الدخول \ "رمز البريد الإلكتروني \" بدلاً من ذلك. بمجرد تسجيل الدخول ، استخدم خيار \ "تغيير كلمة المرور \" في القائمة لتعيين كلمة مرور جديدة.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "modals.password.subhead1": {
+    "message": "مستخدم جديد؟ نسيت رقمك السري؟",
+    "description": "Rhetorical question asked of the user"
+  },
+  "modals.patience.p1": {
+    "message": "حسنًا ، يبدو أن الخادم مشغول اليوم! سنقوم بتوصيلك قبل أن تعرف ذلك. شكرا لصبرك.",
+    "description": "Paragraph of body text"
+  },
+  "modals.patience.p2": {
+    "message": "شكرا على الانتظار. ليس من المفترض أن يستغرق الأمر كل هذا الوقت. يرجى التحقق مرة أخرى من اتصالك بالإنترنت. إذا كنت متأكدًا من أن الإنترنت لديك يعمل ، ففكر في الاتصال بالدعم.",
+    "description": "Paragraph of body text"
+  },
+  "modals.upgrade.btn1": {
+    "message": "مشاهدة الخطط",
+    "description": "Button text"
+  },
+  "modals.upgrade.btn2": {
+    "message": "ربط حساب Patreon",
+    "description": "Button text; \"Patreon\" should not be translated"
+  },
+  "modals.upgrade.btn3": {
+    "message": "التغيير على Patreon",
+    "description": "Button text; \"Patreon\" should not be translated"
+  },
+  "modals.upgrade.btn4": {
+    "message": "قم بإلغاء ربط حساب Patreon",
+    "description": "Button text; \"Patreon\" should not be translated"
+  },
+  "modals.upgrade.p1": {
+    "message": "شكرًا لك على تعهدك بـ {{-pledge Amount HTML}}!",
+    "description": "Paragraph of body text"
+  },
+  "modals.upgrade.p2": {
+    "message": "تريد نقل تعهدك؟",
+    "description": "Rhetorical question asked of the user"
+  },
+  "modals.upgrade.p3": {
+    "message": "كل أسبوع ، يربط {{config.client.app_name}} عشرات الآلاف من الطلاب والمعلمين والباحثين في أكثر من 100 بلد. ليس لدينا جدار حماية. إذا كنت تؤمن بمهمتنا في توفير البرامج التعليمية مجانًا ، فيرجى الانضمام إلينا من خلال دعم {{config.client.app_name}} على Patreon.",
+    "description": "Paragraph of body text; \"Patreon\" should not be translated"
+  },
+  "modals.upgrade.title": {
+    "message": "حدث الحساب",
+    "description": "Button text"
+  },
+  "modals.welcome_back.btn1": {
+    "message": "نعم",
+    "description": "Button text"
+  },
+  "modals.welcome_back.p1": {
+    "message": "لقد مضى وقت طويل منذ أن قمت بزيارة {{config.client.app_name}}. لديك مساحة عمل نظيفة لبداية جديدة. لاستعادة بياناتك من آخر مرة ، يرجى الاتصال بالدعم باستخدام الزر في القائمة.",
+    "description": "Paragraph of body text"
+  },
+  "modals.welcome_back.title": {
+    "message": "مرحبا بعودتك!",
+    "description": "Title of dialog box"
+  },
+  "panel.output.github#btn": {
+    "message": "{{projectName}} على جيثب",
+    "description": "Link text"
+  },
+  "panel.output.upgraded#ui": {
+    "message": "ترقية الدورة",
+    "description": "Description when hovering over an image"
+  },
+  "panel.plot.description#ui": {
+    "message": "قطعة الأرض: الخط {{-lineNumberHTML}}",
+    "description": "Paragraph of body text"
+  },
+  "panel.plot.download#btn": {
+    "message": "قم بتنزيل المؤامرة كما هو موضح",
+    "description": "Button text"
+  },
+  "panel.plot.expand#btn": {
+    "message": "قم بتوسيع نافذة المؤامرة",
+    "description": "Button text"
+  },
+  "panel.plot.next#btn": {
+    "message": "الحبكة التالية",
+    "description": "Button text"
+  },
+  "panel.plot.prev#btn": {
+    "message": "الحبكة السابقة",
+    "description": "Button text"
+  },
+  "panel.plot.zoom#btn": {
+    "message": "انقر للتكبير",
+    "description": "Button text"
+  },
+  "panel.prompt.add#btn": {
+    "message": "أضف {{-numSecondsHTML}} ثانية",
+    "description": "Button text with interpolated number; for example, \"Add 15 seconds\""
+  },
+  "panel.prompt.resume#btn": {
+    "message": "استئناف التنفيذ",
+    "description": "Button text"
+  },
+  "panel.prompt.seconds#ui": {
+    "message": "الثواني المتبقية:",
+    "description": "Label, followed by a number"
+  },
+  "panel.prompt.sigint#btn": {
+    "message": "إيقاف الأمر قيد التشغيل حاليًا (إرسال SIGINT)",
+    "description": "Button text; \"SIGINT\" should not be translated"
+  },
+  "panel.prompt.upgrade#btn": {
+    "message": "تطوير",
+    "description": "Button text"
+  },
+  "panel.vars.title": {
+    "message": "المتغيرات",
+    "description": "Section header"
+  },
+  "promos.bucketcreate.p1": {
+    "message": "شارك لقطات من ملفات البرنامج النصي الخاص بك!",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.bucketcreate.p2": {
+    "message": "انقر فوق الرمز لإنشاء دلو جديد.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.bucketsbacklink.p1": {
+    "message": "سجّل الدخول لإنشاء الحاويات الخاصة بك واستخدام باقي {{config.client.app_name}}.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.instructor.p1": {
+    "message": "هل تعلم أنه يمكنك استخدام {{config.client.app_name}} في صفك؟",
+    "description": "Paragraph of body text"
+  },
+  "promos.instructor.p2": {
+    "message": "افتح تذكرة دعم للاستعلام عن كيفية إعدادك كمدرب.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.login.p1": {
+    "message": "تريد استخدام البرامج النصية؟",
+    "description": "Rhetorical question asked of the user"
+  },
+  "promos.login.p2": {
+    "message": "قم بتسجيل الدخول لإنشاء ملفات البرامج النصية ومشاركتها.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.prompt.btn1": {
+    "message": "تسجيل الدخول",
+    "description": "Call to action, button text"
+  },
+  "promos.prompt.p1": {
+    "message": "اكتب التعبيرات هنا واضغط مفتاح الإدخال.",
+    "description": "Paragraph of body text"
+  },
+  "promos.prompt.p2": {
+    "message": "لاستخدام ملفات البرامج النصية:",
+    "description": "Label, followed by a call to action button"
+  },
+  "promos.prompt.title": {
+    "message": "موجه أوامر الأوكتاف",
+    "description": "Section header"
+  },
+  "promos.sharing.p1": {
+    "message": "قم بإعداد المشاركة حتى تتمكن من تحرير ملفات النص البرمجي بشكل تعاوني في الوقت الفعلي ، مثل محرر مستندات Google.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.sharing.p1@2": {
+    "message": "مكّن التعاون للسماح للآخرين بتعديل ملفات النصوص البرمجية في الوقت الفعلي ، مثل محرر مستندات Google.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.sharing.subhead1": {
+    "message": "تلميح:",
+    "description": "Section header"
+  },
+  "promos.sync.p1": {
+    "message": "عرض الإصدارات التاريخية لملفات البرامج النصية الخاصة بك!",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.sync.p2": {
+    "message": "انقر فوق الرمز لمزيد من المعلومات.",
+    "description": "Call to action, paragraph of body text"
+  },
+  "promos.welcome.p1": {
+    "message": "{{config.client.app_name}} هي واجهة مستخدم ويب لـ GNU Octave ، البديل مفتوح المصدر لـ MATLAB. يستخدم الآلاف من الطلاب والمعلمين والباحثين من جميع أنحاء العالم {{config.client.app_name}} كل يوم لدراسة التعلم الآلي وأنظمة التحكم والأساليب العددية والمزيد.",
+    "description": "Paragraph of body text"
+  },
+  "promos.welcome.p2": {
+    "message": "اكتب الأوامر في الموجه كما تفعل في نسختك المحلية من GNU Octave أو MATLAB.",
+    "description": "Paragraph of body text describing what you can do on the site"
+  },
+  "promos.welcome.p3": {
+    "message": "ارسم المخططات والرسوم البيانية.",
+    "description": "Paragraph of body text describing what you can do on the site"
+  },
+  "promos.welcome.p4": {
+    "message": "سجّل الدخول للحصول على المزيد من الميزات: ملفات البرامج النصية ، والمستودعات ، والتعاون في الوقت الفعلي مثل محرر مستندات Google ، ووقت التشغيل الممتد ، والمزيد.",
+    "description": "Paragraph of body text with a call to action and also describing what you can do on the site"
+  },
+  "promos.welcome.start#btn": {
+    "message": "ابدأ باستخدام {{config.client.app_name}}",
+    "description": "Call to action, button text"
+  },
+  "promos.welcome.title": {
+    "message": "مرحبًا بك في {{config.client.app_name}}",
+    "description": "Section header (shown prominently on page)"
+  }
+}
