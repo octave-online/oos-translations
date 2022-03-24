@@ -200,7 +200,7 @@
     "description": "Site Title (does not need translation)"
   },
   "header.sidebar.changeemail#body": {
-    "message": "هل قمت بتسجيل الدخول من قبل ولكنك بحاجة إلى تغيير عنوان بريدك الإلكتروني؟ انقر على \ ملاحظات \" وأنشئ تذكرة. سوف نغيره من أجلك.",
+    "message": "هل قمت بتسجيل الدخول من قبل ولكنك بحاجة إلى تغيير عنوان بريدك الإلكتروني؟ انقر على \ "ملاحظات \" وأنشئ تذكرة. سوف نغيره من أجلك.",
     "description": "(OBSOLETE) Paragraph of body text"
   },
   "header.sidebar.changelayout#btn": {
@@ -400,7 +400,7 @@
     "description": "Paragraph of body text"
   },
   "javascript.students.enroll.p2": {
-    "message": "عند التسجيل في دورة تدريبية ، سيتمكن المدرسون لهذه الدورة التدريبية من الوصول إلى الملفات التي تحفظها. يمكنك إلغاء تسجيلك في أي وقت عن طريق تشغيل ما يلي في موجه الأوامر.",
+    "message": ""عند التسجيل في دورة تدريبية ، سيتمكن المدرسون لهذه الدورة التدريبية من الوصول إلى الملفات التي تحفظها. يمكنك إلغاء تسجيلك في أي وقت عن طريق تشغيل ما يلي في موجه الأوامر.",
     "description": "Paragraph of body text"
   },
   "javascript.students.enroll.p3": {
@@ -476,11 +476,11 @@
     "description": "Section header, followed by a list"
   },
   "modals.createbucket.p1": {
-    "message": "\ bucket \" هي كيفية مشاركة لقطات البرنامج النصي {{config.client.app_name}} أو ملفات البيانات بشكل عام.",
+    "message": "\ "bucket \" هي كيفية مشاركة لقطات البرنامج النصي {{config.client.app_name}} أو ملفات البيانات بشكل عام.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p1@2": {
-    "message": " \ bucket \" هي طريقة لمشاركة لقطات من البرامج النصية وملفات البيانات.  \ المشروع \" هو مساحة عمل قابلة للتحرير لتنظيم البرامج النصية وملفات البيانات.",
+    "message": " \ "bucket \" هي طريقة لمشاركة لقطات من البرامج النصية وملفات البيانات.  \ "المشروع \" هو مساحة عمل قابلة للتحرير لتنظيم البرامج النصية وملفات البيانات.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p2": {
@@ -488,7 +488,7 @@
     "description": "Call to action, paragraph of body text"
   },
   "modals.createbucket.p3": {
-    "message": "يتم تشغيل البرنامج النصي 2 \ خاصتي \" تلقائيًا عند عرض مجموعة واحدة.",
+    "message": "يتم تشغيل البرنامج النصي 2 \ "خاصتي \" تلقائيًا عند عرض مجموعة واحدة.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p4": {
@@ -588,7 +588,7 @@
     "description": "Title of dialog box"
   },
   "modals.password.p1": {
-    "message": "استخدم خيار تسجيل الدخول \ "مز البريد الإلكتروني \" بدلاً من ذلك. بمجرد تسجيل الدخول،استخدم خيار \ "تغيير كلمة المرور \" في القائمة لتعيين كلمة مرور جديدة.",
+    "message": "استخدم خيار تسجيل الدخول \ "رمز البريد الإلكتروني \" بدلاً من ذلك. بمجرد تسجيل الدخول ، استخدم خيار \ "تغيير كلمة المرور \" في القائمة لتعيين كلمة مرور جديدة.",
     "description": "Call to action, paragraph of body text"
   },
   "modals.password.subhead1": {
