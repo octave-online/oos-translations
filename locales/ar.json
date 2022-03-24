@@ -460,7 +460,7 @@
     "description": "Call to action, paragraph of body text"
   },
   "modals.changepwd.p1": {
-    "message": "أدخل كلمة المرور الجديدة أدناه. لإزالة كلمة المرور وتعطيل عمليات تسجيل الدخول المستندة إلى كلمة المرور ، اترك حقل كلمة المرور فارغًا وانقر فوق \ "حفظ كلمة المرور \"",
+    "message": "أدخل كلمة المرور الجديدة أدناه. لإزالة كلمة المرور وتعطيل عمليات تسجيل الدخول المستندة إلى كلمة المرور ، اترك حقل كلمة المرور فارغًا وانقر فوق",
     "description": "Call to action, paragraph of body text"
   },
   "modals.changepwd.submit#btn": {
@@ -476,11 +476,11 @@
     "description": "Section header, followed by a list"
   },
   "modals.createbucket.p1": {
-    "message": "\ bucket \" هي كيفية مشاركة لقطات البرنامج النصي {{config.client.app_name}} أو ملفات البيانات بشكل عام.",
+    "message": " \ bucket \ هي كيفية مشاركة لقطات البرنامج النصي {{config.client.app_name}} أو ملفات البيانات بشكل عام.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p1@2": {
-    "message": " \ bucket \" هي طريقة لمشاركة لقطات من البرامج النصية وملفات البيانات.  \ المشروع \" هو مساحة عمل قابلة للتحرير لتنظيم البرامج النصية وملفات البيانات.",
+    "message": " \ bucket \ هي طريقة لمشاركة لقطات من البرامج النصية وملفات البيانات.  \ المشروع \" هو مساحة عمل قابلة للتحرير لتنظيم البرامج النصية وملفات البيانات.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p2": {
@@ -488,7 +488,7 @@
     "description": "Call to action, paragraph of body text"
   },
   "modals.createbucket.p3": {
-    "message": "يتم تشغيل البرنامج النصي 2 \ خاصتي \" تلقائيًا عند عرض مجموعة واحدة.",
+    "message": "يتم تشغيل البرنامج النصي 2 \ خاصتي \ تلقائيًا عند عرض مجموعة واحدة.",
     "description": "Paragraph of body text"
   },
   "modals.createbucket.p4": {
@@ -572,7 +572,7 @@
     "description": "Paragraph of body text"
   },
   "modals.history.p2": {
-    "message": "لطلب لقطة ملف مضغوط تم إرسالها إلى بريدك الإلكتروني ، انقر فوق الارتباط أدناه. ملاحظة: إذا قمت بتحرير ملفاتك في هذه الجلسة ، فانقر فوق الزر \ "تحديث الملفات \" أولاً لضمان حصولك على أحدث لقطة.",
+    "message": "لطلب لقطة ملف مضغوط تم إرسالها إلى بريدك الإلكتروني ، انقر فوق الارتباط أدناه. ملاحظة: إذا قمت بتحرير ملفاتك في هذه الجلسة ، فانقر فوق الزر \ Refresh Files \ أولاً لضمان حصولك على أحدث لقطة.",
     "description": "Paragraph of body text"
   },
   "modals.history.subtitle1": {
@@ -588,7 +588,7 @@
     "description": "Title of dialog box"
   },
   "modals.password.p1": {
-    "message": "استخدم خيار تسجيل الدخول \ "مز البريد الإلكتروني \" بدلاً من ذلك. بمجرد تسجيل الدخول،استخدم خيار \ "تغيير كلمة المرور \" في القائمة لتعيين كلمة مرور جديدة.",
+    "message": "استخدم الخيار \ رمز البريد الإلكتروني \ تسجيل الدخول بدلاً من ذلك. بمجرد تسجيل الدخول ، استخدم الخيار \ Change Password \ في القائمة لتعيين كلمة مرور جديدة",
     "description": "Call to action, paragraph of body text"
   },
   "modals.password.subhead1": {
