@@ -13,6 +13,11 @@ jobs:
         with:
           read_key: ${{ secrets.LOCALAZY_READ_KEY }}
           write_key: ${{ secrets.LOCALAZY_WRITE_KEY }}
+      - name: Merge translations
+        run: |
+          function merge_descriptions() { jq -s ".[0] * .[1]" locales/en.json "$1" > locales/$(basename "$1"); }
+          export -f merge_descriptions
+          find localazy_download -name "*.json" -exec bash -c "merge_descriptions \"{}\"" \;
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
