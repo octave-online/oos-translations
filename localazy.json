@@ -4,6 +4,10 @@
     "files": "locales/en.json",
     "features": [
       "content_as_object"
+    ],
+    "excludeKeys": [
+      "constants.shortlink_prefix",
+      "header.meta.server.title"
     ]
   },
   "download": {
