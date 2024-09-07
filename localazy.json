@@ -1,10 +1,12 @@
 {
-	"upload": {
-		"type": "json",
-		"files": "locales/en.json",
-		"features": ["content_as_object"]
-	},
-	"download": {
-		"files": "locales/${lang}.json"
-	}
+  "upload": {
+    "type": "json",
+    "files": "locales/en.json",
+    "features": [
+      "content_as_object"
+    ]
+  },
+  "download": {
+    "files": "locales/${lang}.json"
+  }
 }
