@@ -11,6 +11,6 @@
     ]
   },
   "download": {
-    "files": "locales/${lang}.json"
+    "files": "localazy_download//${lang}.json"
   }
 }
