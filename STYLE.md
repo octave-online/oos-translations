@@ -2,13 +2,11 @@
 
 Octave Online is a web site that provides cloud-based scientific computing for higher education in mathematics, engineering, and physical sciences. Users collaborate with a script file editor and console window. Users create and share graphs (plots) and "buckets" with script and data files.
 
-Audience includes professors, undergraduate students, graduate students, and researchers.
-
-Style:
-
-- Tone: Clear, concise, simple language.
-- Vocabulary: focused on precise and specific terms.
-- Grammar: Formal
+Audience: Professors, undergraduate students, graduate students, researchers
+Tone: Clear, concise, simple language
+Vocabulary: focused on precise and specific terms
+Grammar: Formal
+URL: https://octave-online.net/
 
 Do not translate:
 
