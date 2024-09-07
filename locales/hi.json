@@ -1,794 +1,590 @@
 {
   "common.bucket": {
-    "message": "बाल्टी",
-    "description": "Name for a collection of files shared with other users; do not translate in Latin-script languages"
+    "message": "बाल्टी"
   },
   "common.caution#label": {
-    "message": "सावधान रहे:",
-    "description": "Label, followed by another sentence"
+    "message": "सावधान रहे:"
   },
   "common.dismiss#btn": {
-    "message": "खारिज",
-    "description": "Button text"
+    "message": "खारिज"
   },
   "common.email#ph": {
-    "message": "ईमेल पता",
-    "description": "Placeholder text for form field"
+    "message": "ईमेल पता"
   },
   "common.https#btn": {
-    "message": "सुरक्षित कनेक्शन पर स्विच करें (https)",
-    "description": "Button text"
+    "message": "सुरक्षित कनेक्शन पर स्विच करें (https)"
   },
   "common.https#p": {
-    "message": "आप एक सुरक्षित कनेक्शन का उपयोग कर रहे हैं (http). लोग आपके सबमिशन देख सकेंगे।",
-    "description": "Paragraph of body text"
+    "message": "आप एक सुरक्षित कनेक्शन का उपयोग कर रहे हैं (http). लोग आपके सबमिशन देख सकेंगे।"
   },
   "common.loading#ui": {
-    "message": "लोड हो रहा है…",
-    "description": "Filler text when a component is not ready yet"
+    "message": "लोड हो रहा है…"
   },
   "common.loginrequired": {
-    "message": "कृपया इस क्रिया को करने के लिए साइन इन करें",
-    "description": "Error message"
+    "message": "कृपया इस क्रिया को करने के लिए साइन इन करें"
   },
   "common.password#ph": {
-    "message": "कुंजिका",
-    "description": "Placeholder text for form field"
+    "message": "कुंजिका"
   },
   "common.project": {
-    "message": "परियोजना",
-    "description": "Name for a workspace with files for editing and collaboration"
+    "message": "परियोजना"
   },
   "common.submit#btn": {
-    "message": "प्रस्तुत",
-    "description": "Button text"
-  },
-  "constants.shortlink_prefix": {
-    "message": "https://{{config.redirect.hostname}}/",
-    "description": "DO NOT TRANSLATE"
+    "message": "प्रस्तुत"
   },
   "editor.tips.a1": {
-    "message": "पूरी लिस्ट",
-    "description": "Link text"
+    "message": "पूरी लिस्ट"
   },
   "editor.tips.dd1": {
-    "message": "स्वतः पूर्णता मेनू दिखाएं",
-    "description": "Description of what a button will do"
+    "message": "स्वतः पूर्णता मेनू दिखाएं"
   },
   "editor.tips.dd2": {
-    "message": "फ़ाइल सहेजें",
-    "description": "Description of what a button will do"
+    "message": "फ़ाइल सहेजें"
   },
   "editor.tips.dd3": {
-    "message": "फ़ाइल चलाएँ",
-    "description": "Description of what a button will do"
+    "message": "फ़ाइल चलाएँ"
   },
   "editor.tips.dd4": {
-    "message": "प्रॉम्प्ट पर फ़ोकस सेट करें",
-    "description": "Description of what a button will do"
+    "message": "प्रॉम्प्ट पर फ़ोकस सेट करें"
   },
   "editor.tips.p1": {
-    "message": "आपका अपना {{config.client.app_name}} आपके द्वारा अगली बार विज़िट करने पर जिन फ़ाइलों पर कार्य किया जा रहा है, वे स्वतः सहेज ली जाएंगी..6 महीने की निष्क्रियता के बाद इन्हें हटा दिया जाएगा।",
-    "description": "Paragraph of body text"
+    "message": "आपका अपना {{config.client.app_name}} आपके द्वारा अगली बार विज़िट करने पर जिन फ़ाइलों पर कार्य किया जा रहा है, वे स्वतः सहेज ली जाएंगी..6 महीने की निष्क्रियता के बाद इन्हें हटा दिया जाएगा।"
   },
   "editor.tips.p2": {
-    "message": "सामान्य शॉर्टकट:",
-    "description": "Label, followed by a list"
+    "message": "सामान्य शॉर्टकट:"
   },
   "editor.tips.subhead1": {
-    "message": "कुंजीपटल अल्प मार्ग",
-    "description": "Section header"
+    "message": "कुंजीपटल अल्प मार्ग"
   },
   "editor.tips.title": {
-    "message": "युक्तियाँ और चालें",
-    "description": "Section header"
+    "message": "युक्तियाँ और चालें"
   },
   "editor.toolbar.create#btn": {
-    "message": "एक फ़ाइल बनाएँ",
-    "description": "Button text"
+    "message": "एक फ़ाइल बनाएँ"
   },
   "editor.toolbar.delete#btn": {
-    "message": "फ़ाइल नष्ट करें",
-    "description": "Button text"
+    "message": "फ़ाइल नष्ट करें"
   },
   "editor.toolbar.download#btn": {
-    "message": "फ़ाइल डाउनलोड करें",
-    "description": "Button text"
+    "message": "फ़ाइल डाउनलोड करें"
   },
   "editor.toolbar.drop#ui": {
-    "message": "फाइल अपलोड करने के लिए यहां क्लिक करें",
-    "description": "Instruction for the user"
+    "message": "फाइल अपलोड करने के लिए यहां क्लिक करें"
   },
   "editor.toolbar.files#title": {
-    "message": "फ़ाइलें",
-    "description": "Section header"
+    "message": "फ़ाइलें"
   },
   "editor.toolbar.history#btn": {
-    "message": "फ़ाइल संस्करण इतिहास",
-    "description": "Button text"
+    "message": "फ़ाइल संस्करण इतिहास"
   },
   "editor.toolbar.print#btn": {
-    "message": "फ़ाइल छापें",
-    "description": "Button text"
+    "message": "फ़ाइल छापें"
   },
   "editor.toolbar.refresh#btn": {
-    "message": "फ़ाइलें ताज़ा करें",
-    "description": "Button text"
+    "message": "फ़ाइलें ताज़ा करें"
   },
   "editor.toolbar.rename#btn": {
-    "message": "फाइल का नाम बदलो",
-    "description": "Button text"
+    "message": "फाइल का नाम बदलो"
   },
   "editor.toolbar.run#btn": {
-    "message": "स्क्रिप्ट चलाएँ",
-    "description": "Button text"
+    "message": "स्क्रिप्ट चलाएँ"
   },
   "editor.toolbar.run#ui": {
-    "message": "चलाएं",
-    "description": "Button text to evaluate a script (appears prominently on page)"
+    "message": "चलाएं"
   },
   "editor.toolbar.save#btn": {
-    "message": "फाइल सुरक्षित करें",
-    "description": "Button text"
+    "message": "फाइल सुरक्षित करें"
   },
   "editor.toolbar.share#btn": {
-    "message": "नए बजट पर फ़ाइलें साझा करें",
-    "description": "Button text"
+    "message": "नए बजट पर फ़ाइलें साझा करें"
   },
   "editor.toolbar.toolbar#btn": {
-    "message": "टूलबार दिखाएं",
-    "description": "Button text"
+    "message": "टूलबार दिखाएं"
   },
   "editor.toolbar.upload#btn": {
-    "message": "फ़ाइल अपलोड करें",
-    "description": "Button text"
+    "message": "फ़ाइल अपलोड करें"
   },
   "editor.toolbar.wrap#btn": {
-    "message": "रैप टोगो वार्ड",
-    "description": "Button text"
+    "message": "रैप टोगो वार्ड"
   },
   "editor.unsupported.li1": {
-    "message": "इस संपादक का फ़ाइल प्रकार समर्थित नहीं है।",
-    "description": "Error text"
+    "message": "इस संपादक का फ़ाइल प्रकार समर्थित नहीं है।"
   },
   "editor.unsupported.li2": {
-    "message": "फ़ाइलें छवियों की तरह बाइनरी प्रारूप में हैं।",
-    "description": "Error text"
+    "message": "फ़ाइलें छवियों की तरह बाइनरी प्रारूप में हैं।"
   },
   "editor.unsupported.li3": {
-    "message": "फ़ाइल बहुत बड़ी है और इसे संपादक में लोड नहीं किया जा सकता।",
-    "description": "Error text"
+    "message": "फ़ाइल बहुत बड़ी है और इसे संपादक में लोड नहीं किया जा सकता।"
   },
   "editor.unsupported.p1": {
-    "message": "वर्तमान में चयनित फ़ाइल को ऑनलाइन संपादित नहीं किया जा सकता है। आप फ़ाइल का नाम बदलने, डाउनलोड करने और हटाने के लिए अभी भी उपरोक्त टूलबार का उपयोग कर सकते हैं। इसमें शामिल कारणों में शामिल हैं:",
-    "description": "Error text, ending with a label, followed by a list"
+    "message": "वर्तमान में चयनित फ़ाइल को ऑनलाइन संपादित नहीं किया जा सकता है। आप फ़ाइल का नाम बदलने, डाउनलोड करने और हटाने के लिए अभी भी उपरोक्त टूलबार का उपयोग कर सकते हैं। इसमें शामिल कारणों में शामिल हैं:"
   },
   "editor.unsupported.title": {
-    "message": "{{config.client.app_name}} इंटरएक्टिव संपादक",
-    "description": "Section header"
+    "message": "{{config.client.app_name}} इंटरएक्टिव संपादक"
   },
   "header.buckets.delete#btn": {
-    "message": "बाल्टी हटाएं",
-    "description": "Button text"
+    "message": "बाल्टी हटाएं"
   },
   "header.buckets.delete#btn@2": {
-    "message": "बकेट / प्रोजेक्ट हटाएं",
-    "description": "Button text"
+    "message": "बकेट / प्रोजेक्ट हटाएं"
   },
   "header.buckets.title": {
-    "message": "आपकी बाल्टी:",
-    "description": "Label, followed by a number"
+    "message": "आपकी बाल्टी:"
   },
   "header.buckets.title@2": {
-    "message": "आपकी बाल्टी और परियोजना:",
-    "description": "Label, followed by a number"
+    "message": "आपकी बाल्टी और परियोजना:"
   },
   "header.meta.official.desc": {
-    "message": "GNU ऑक्टेव के साथ वैज्ञानिक कंप्यूटिंग के लिए स्क्रिप्ट बनाएं और साझा करें। मुक्त और खुला स्रोत। आपके ब्राउज़र में काम करता है, जिसमें Chromebook, iPads, टैबलेट और स्मार्टफ़ोन शामिल हैं।",
-    "description": "Paragraph of body tex"
+    "message": "GNU ऑक्टेव के साथ वैज्ञानिक कंप्यूटिंग के लिए स्क्रिप्ट बनाएं और साझा करें। मुक्त और खुला स्रोत। आपके ब्राउज़र में काम करता है, जिसमें Chromebook, iPads, टैबलेट और स्मार्टफ़ोन शामिल हैं।"
   },
   "header.meta.official.title": {
-    "message": "{{config.client.app_name}} · क्लाउड आईडीई मैटलैब के साथ संगत है",
-    "description": "Site Title"
+    "message": "{{config.client.app_name}} · क्लाउड आईडीई मैटलैब के साथ संगत है"
   },
   "header.meta.server.desc": {
-    "message": "{{config.client.app_name}} इसकी शक्ति कस्टम हार्डवेयर द्वारा संचालित है। एजीपीएल लाइसेंस के तहत उपयोग किया जाता है।",
-    "description": "Paragraph of body tex"
-  },
-  "header.meta.server.title": {
-    "message": "{{config.client.app_name}}",
-    "description": "Site Title (does not need translation)"
+    "message": "{{config.client.app_name}} इसकी शक्ति कस्टम हार्डवेयर द्वारा संचालित है। एजीपीएल लाइसेंस के तहत उपयोग किया जाता है।"
   },
   "header.sidebar.changeemail#body": {
-    "message": "पहले साइन इन किया था लेकिन अब अपना ईमेल पता बदलना चाहते हैं? \"फीडबैक \" पर क्लिक करें और टिकट बनाएं। हम इसे बदलने में आपकी मदद करेंगे।",
-    "description": "(OBSOLETE) Paragraph of body text"
+    "message": "पहले साइन इन किया था लेकिन अब अपना ईमेल पता बदलना चाहते हैं? \"फीडबैक \" पर क्लिक करें और टिकट बनाएं। हम इसे बदलने में आपकी मदद करेंगे।"
   },
   "header.sidebar.changelayout#btn": {
-    "message": "लेआउट बदलें / रीसेट करें",
-    "description": "Button text"
+    "message": "लेआउट बदलें / रीसेट करें"
   },
   "header.sidebar.changepassword#btn": {
-    "message": "पासवर्ड बदलें",
-    "description": "Button text"
+    "message": "पासवर्ड बदलें"
   },
   "header.sidebar.changetheme#btn": {
-    "message": "थीम बदलें",
-    "description": "Button text"
+    "message": "थीम बदलें"
   },
   "header.sidebar.createnewproject#btn": {
-    "message": "नया काम",
-    "description": "Button text"
+    "message": "नया काम"
   },
   "header.sidebar.disablesharing#btn": {
-    "message": "साझा करना अक्षम करें",
-    "description": "Button text"
+    "message": "साझा करना अक्षम करें"
   },
   "header.sidebar.disablesharing#btn@2": {
-    "message": "सहयोग अक्षम करें",
-    "description": "Button text"
+    "message": "सहयोग अक्षम करें"
   },
   "header.sidebar.enablesharing#btn": {
-    "message": "कार्यक्षेत्र साझा करें",
-    "description": "Button text"
+    "message": "कार्यक्षेत्र साझा करें"
   },
   "header.sidebar.enablesharing#btn@2": {
-    "message": "सहयोग सक्षम करें",
-    "description": "Button text"
+    "message": "सहयोग सक्षम करें"
   },
   "header.sidebar.enablesharing#tooltip": {
-    "message": "सहयोग को सक्षम करने से अन्य लोग वास्तविक समय में आपके गृह कार्यस्थान को संपादित कर सकते हैं।",
-    "description": "Tooltip (additional explanation of what a button will do)"
+    "message": "सहयोग को सक्षम करने से अन्य लोग वास्तविक समय में आपके गृह कार्यस्थान को संपादित कर सकते हैं।"
   },
   "header.sidebar.enablesharingp#tooltip": {
-    "message": "सहयोग को सक्षम करने से अन्य लोग इस प्रोजेक्ट को रीयल टाइम में संपादित कर सकते हैं।",
-    "description": "Tooltip (additional explanation of what a button will do)"
+    "message": "सहयोग को सक्षम करने से अन्य लोग इस प्रोजेक्ट को रीयल टाइम में संपादित कर सकते हैं।"
   },
   "header.sidebar.github#btn": {
-    "message": "गिटहब परियोजना",
-    "description": "Link text"
+    "message": "गिटहब परियोजना"
   },
   "header.sidebar.inlineplots#btn": {
-    "message": "नए भूखंडों को इनलाइन प्रस्तुत करें",
-    "description": "Button text"
+    "message": "नए भूखंडों को इनलाइन प्रस्तुत करें"
   },
   "header.sidebar.legal#btn": {
-    "message": "गोपनीयता नीति और EULA",
-    "description": "Button text"
+    "message": "गोपनीयता नीति और EULA"
   },
   "header.sidebar.patreon#btn": {
-    "message": "Patreon के साथ अपग्रेड करें",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Patreon के साथ अपग्रेड करें"
   },
   "header.sidebar.sharedesc#body": {
-    "message": "अन्य लोग आपके कार्यस्थल से जुड़ने के लिए नीचे दिए गए लिंक का उपयोग कर सकते हैं।",
-    "description": "Paragraph of body text"
+    "message": "अन्य लोग आपके कार्यस्थल से जुड़ने के लिए नीचे दिए गए लिंक का उपयोग कर सकते हैं।"
   },
   "header.sidebar.signinemail#btn": {
-    "message": "ईमेल से साइन इन करें",
-    "description": "Button text"
+    "message": "ईमेल से साइन इन करें"
   },
   "header.sidebar.signingoogle#btn": {
-    "message": "ईमेल से साइन इन करें",
-    "description": "Button text"
+    "message": "ईमेल से साइन इन करें"
   },
   "header.sidebar.signinpassword#btn": {
-    "message": "अपने पासवर्ड से साइन इन करें",
-    "description": "Button text"
+    "message": "अपने पासवर्ड से साइन इन करें"
   },
   "header.sidebar.signout#btn": {
-    "message": "प्रस्थान करें",
-    "description": "Button text"
+    "message": "प्रस्थान करें"
   },
   "header.sidebar.support#btn": {
-    "message": "प्रतिक्रिया और समर्थन",
-    "description": "Button text"
+    "message": "प्रतिक्रिया और समर्थन"
   },
   "header.sidebar.textwrap#btn": {
-    "message": "कंसोल पर लंबी लाइनें लपेटें।",
-    "description": "Button text"
+    "message": "कंसोल पर लंबी लाइनें लपेटें।"
   },
   "header.sidebar.twitter#btn": {
-    "message": "टिवीटर पर फॉलो करना",
-    "description": "Button text"
+    "message": "टिवीटर पर फॉलो करना"
   },
   "header.site.adfallback#body": {
-    "message": "अपना हिस्सा करें: यूएस $ 3 / माह का योगदान करके मुफ्त सॉफ्टवेयर का समर्थन करें।",
-    "description": "Text shown when advertisement is unavailable"
+    "message": "अपना हिस्सा करें: यूएस $ 3 / माह का योगदान करके मुफ्त सॉफ्टवेयर का समर्थन करें।"
   },
   "header.site.menu#btn": {
-    "message": "मेन्यू",
-    "description": "Button text to show the menu (appears prominently on page)"
+    "message": "मेन्यू"
   },
   "header.students.reenroll#btn": {
-    "message": "चाल",
-    "description": "Button text"
+    "message": "चाल"
   },
   "header.students.subhead1": {
-    "message": "कोड:",
-    "description": "Label, followed by a list"
+    "message": "कोड:"
   },
   "header.students.title": {
-    "message": "छात्र",
-    "description": "Section header"
+    "message": "छात्र"
   },
   "header.students.unenroll#btn": {
-    "message": "सूचीबद्ध होने वाला",
-    "description": "Button text"
+    "message": "सूचीबद्ध होने वाला"
   },
   "javascript.buckets.error1": {
-    "message": "एरर: अवैध शॉर्ट लिंक। कम से कम 5 अक्षर, संख्या,-,और_  का उपयोग करें।",
-    "description": "Paragraph of body text"
+    "message": "एरर: अवैध शॉर्ट लिंक। कम से कम 5 अक्षर, संख्या,-,और_  का उपयोग करें।"
   },
   "javascript.buckets.error2": {
-    "message": "एरर: वह शॉर्ट लिंक पहले ही ले ली गई है। दुबारा प्रयास करें।",
-    "description": "Paragraph of body text"
+    "message": "एरर: वह शॉर्ट लिंक पहले ही ले ली गई है। दुबारा प्रयास करें।"
   },
   "javascript.buckets.label1": {
-    "message": "एक नई शॉर्ट लिंक एंटर करें",
-    "description": "Label for form field"
+    "message": "एक नई शॉर्ट लिंक एंटर करें"
   },
   "javascript.console.exited#alert": {
-    "message": "ऑक्टेव में उत्साहित। संदेश:",
-    "description": "Label, followed by an error code"
+    "message": "ऑक्टेव में उत्साहित। संदेश:"
   },
   "javascript.console.payload#alert": {
-    "message": "अधिसूचना: बड़े पेलोड के कारण निष्पादन को निलंबित कर दिया गया है",
-    "description": "Paragraph of body text"
+    "message": "अधिसूचना: बड़े पेलोड के कारण निष्पादन को निलंबित कर दिया गया है"
   },
   "javascript.console.pingtime#label": {
-    "message": "पिंग समय:",
-    "description": "Label, followed by a number"
+    "message": "पिंग समय:"
   },
   "javascript.console.plotwindow#alert": {
-    "message": "यह बटन प्लॉट विंडो को दिखाता और छुपाता है। एक भावना दर्ज करें जो एक साजिश बनाता है।",
-    "description": "Paragraph of body text with call to action"
+    "message": "यह बटन प्लॉट विंडो को दिखाता और छुपाता है। एक भावना दर्ज करें जो एक साजिश बनाता है।"
   },
   "javascript.console.readonly#alert": {
-    "message": "नोट: यह केवल पढ़ने के लिए बाल्टी है। अपनी ब्राउज़र विंडो बंद करने के बाद आपके द्वारा किए गए परिवर्तन बरकरार नहीं रहेंगे।",
-    "description": "Paragraph of body text"
+    "message": "नोट: यह केवल पढ़ने के लिए बाल्टी है। अपनी ब्राउज़र विंडो बंद करने के बाद आपके द्वारा किए गए परिवर्तन बरकरार नहीं रहेंगे।"
   },
   "javascript.console.readonly#alert@2": {
-    "message": "नोट: यह केवल पढ़ने के लिए बकेट है; आपका संपादन अस्थायी है। अपने संपादनों को स्थायी बनाने के लिए, बकेट नाम पर क्लिक करके फोर्क बकेट करें:",
-    "description": "Error message"
+    "message": "नोट: यह केवल पढ़ने के लिए बकेट है; आपका संपादन अस्थायी है। अपने संपादनों को स्थायी बनाने के लिए, बकेट नाम पर क्लिक करके फोर्क बकेट करें:"
   },
   "javascript.console.reconnect#btn": {
-    "message": "कनेक्ट करने के लिए यहां क्लिक करें",
-    "description": "Button text"
+    "message": "कनेक्ट करने के लिए यहां क्लिक करें"
   },
   "javascript.console.reconnecting#alert": {
-    "message": "खोया तार। पुनः कनेक्ट करने का प्रयास कर रहा है...",
-    "description": "Paragraph of body text"
+    "message": "खोया तार। पुनः कनेक्ट करने का प्रयास कर रहा है..."
   },
   "javascript.console.refresh#alert": {
-    "message": "यह आपकी फ़ाइलों को सर्वर से पुनः लोड करेगा। कोई भी सहेजा नहीं गया परिवर्तन खो जाएगा।",
-    "description": "Paragraph of body text"
+    "message": "यह आपकी फ़ाइलों को सर्वर से पुनः लोड करेगा। कोई भी सहेजा नहीं गया परिवर्तन खो जाएगा।"
   },
   "javascript.console.seeurl#label": {
-    "message": "नज़र:",
-    "description": "Label, followed by a URL link to documentation"
+    "message": "नज़र:"
   },
   "javascript.newfile.helloworld": {
-    "message": "नमस्ते दुनिया",
-    "description": "Sample string used in programming"
+    "message": "नमस्ते दुनिया"
   },
   "javascript.newfile.label": {
-    "message": "कृपया एक फ़ाइल नाम दर्ज करें:",
-    "description": "Label for form field"
+    "message": "कृपया एक फ़ाइल नाम दर्ज करें:"
   },
   "javascript.print.p1": {
-    "message": "के लिए मुद्रित:",
-    "description": "Label, followed by a name or email"
+    "message": "के लिए मुद्रित:"
   },
   "javascript.print.p2": {
-    "message": "{{config.client.app_name}} द्वारा संचालित",
-    "description": "Body text"
+    "message": "{{config.client.app_name}} द्वारा संचालित"
   },
   "javascript.rename.alert": {
-    "message": "विशिष्ट फ़ाइल नाम पहले से मौजूद हैं।",
-    "description": "Body text"
+    "message": "विशिष्ट फ़ाइल नाम पहले से मौजूद हैं।"
   },
   "javascript.rename.label": {
-    "message": "एक नया फ़ाइल नाम दर्ज करें:",
-    "description": "Label for form field"
+    "message": "एक नया फ़ाइल नाम दर्ज करें:"
   },
   "javascript.students.course#label": {
-    "message": "कोर्स:",
-    "description": "Label, followed by a course code (like \"Math_101\")"
+    "message": "कोर्स:"
   },
   "javascript.students.enroll.p1": {
-    "message": "पाठ्यक्रम में प्रवेश के लिए आपको साइन इन करना होगा।",
-    "description": "Paragraph of body text"
+    "message": "पाठ्यक्रम में प्रवेश के लिए आपको साइन इन करना होगा।"
   },
   "javascript.students.enroll.p2": {
-    "message": "जब आप किसी पाठ्यक्रम में नामांकन करते हैं, तो उस पाठ्यक्रम के प्रशिक्षक आपकी सहेजी गई फ़ाइलों तक पहुंच सकेंगे। आप कमांड प्रॉम्प्ट का पालन करके किसी भी समय अपनी लिस्टिंग रद्द कर सकते हैं।",
-    "description": "Paragraph of body text"
+    "message": "जब आप किसी पाठ्यक्रम में नामांकन करते हैं, तो उस पाठ्यक्रम के प्रशिक्षक आपकी सहेजी गई फ़ाइलों तक पहुंच सकेंगे। आप कमांड प्रॉम्प्ट का पालन करके किसी भी समय अपनी लिस्टिंग रद्द कर सकते हैं।"
   },
   "javascript.students.enroll.p3": {
-    "message": "यदि आप नहीं जानते कि इसका क्या अर्थ है, तो रद्द करें दबाएं।",
-    "description": "Press Cancel if you don't know what any of this means."
+    "message": "यदि आप नहीं जानते कि इसका क्या अर्थ है, तो रद्द करें दबाएं।"
   },
   "javascript.students.name#label": {
-    "message": "नाम:",
-    "description": "Label, followed by a name or email"
+    "message": "नाम:"
   },
   "javascript.students.reenroll.p1": {
-    "message": "वह कोर्स कोड दर्ज करें जिसमें आप जाना चाहते हैं:",
-    "description": "Label for form field"
+    "message": "वह कोर्स कोड दर्ज करें जिसमें आप जाना चाहते हैं:"
   },
   "javascript.students.reenroll.p2": {
-    "message": "निम्नलिखित छात्रों का पुनः नामांकन किया जा रहा है। अपडेट देखने के लिए पेज को फिर से लोड करें।",
-    "description": "Paragraph of body text"
+    "message": "निम्नलिखित छात्रों का पुनः नामांकन किया जा रहा है। अपडेट देखने के लिए पेज को फिर से लोड करें।"
   },
   "javascript.students.reenroll.p3": {
-    "message": "त्रुटि: पाठ्यक्रम कोड नहीं मिला:",
-    "description": "Label, followed by a course code (like \"Math_101\")"
+    "message": "त्रुटि: पाठ्यक्रम कोड नहीं मिला:"
   },
   "javascript.students.unenroll.p1": {
-    "message": "क्या आप वाकई निम्नलिखित छात्र को अपने पाठ्यक्रम से हटाना चाहते हैं?",
-    "description": "Rhetorical question asked of the user"
+    "message": "क्या आप वाकई निम्नलिखित छात्र को अपने पाठ्यक्रम से हटाना चाहते हैं?"
   },
   "javascript.togglesharing.p1": {
-    "message": "आप {{config.client.app_name}} पाठ्यक्रम कोड में सूचीबद्ध छात्र के रूप में साझाकरण अक्षम नहीं किया जा सकता:",
-    "description": "Paragraph of body text, followed by a course code (like \"Math_101\")"
+    "message": "आप {{config.client.app_name}} पाठ्यक्रम कोड में सूचीबद्ध छात्र के रूप में साझाकरण अक्षम नहीं किया जा सकता:"
   },
   "javascript.togglesharing.p2": {
-    "message": "आपको कमांड प्रॉम्प्ट पर इस कमांड को चलाकर खुद को हटाना होगा:",
-    "description": "Call to action, followed by a computer command"
+    "message": "आपको कमांड प्रॉम्प्ट पर इस कमांड को चलाकर खुद को हटाना होगा:"
   },
   "modals.bucketinfo.btn1": {
-    "message": "कांटा इस बाल्टी",
-    "description": "Button text"
+    "message": "कांटा इस बाल्टी"
   },
   "modals.bucketinfo.btn1p": {
-    "message": "इस परियोजना को फोर्क करें",
-    "description": "Button text"
+    "message": "इस परियोजना को फोर्क करें"
   },
   "modals.bucketinfo.btn2": {
-    "message": "शॉर्ट लिंक को बदलें",
-    "description": "Button text"
+    "message": "शॉर्ट लिंक को बदलें"
   },
   "modals.bucketinfo.label1": {
-    "message": "सृजित किया गया:",
-    "description": "Label, followed by a date and time"
+    "message": "सृजित किया गया:"
   },
   "modals.bucketinfo.label2": {
-    "message": "से काटें:",
-    "description": "Label, followed by a link"
+    "message": "से काटें:"
   },
   "modals.bucketinfo.p1": {
-    "message": "इस बकेट या प्रोजेक्ट की अपनी प्रति बनाने के लिए नीचे क्लिक करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "इस बकेट या प्रोजेक्ट की अपनी प्रति बनाने के लिए नीचे क्लिक करें।"
   },
   "modals.changepwd.p1": {
-    "message": "नीचे अपना नया पासवर्ड डालिए। अपना पासवर्ड हटाने और पासवर्ड-आधारित लॉगिन अक्षम करने के लिए, पासवर्ड फ़ील्ड को \"पासवर्ड सहेजें \" पर खाली छोड़ दें। पर क्लिक करें",
-    "description": "Call to action, paragraph of body text"
+    "message": "नीचे अपना नया पासवर्ड डालिए। अपना पासवर्ड हटाने और पासवर्ड-आधारित लॉगिन अक्षम करने के लिए, पासवर्ड फ़ील्ड को \"पासवर्ड सहेजें \" पर खाली छोड़ दें। पर क्लिक करें"
   },
   "modals.changepwd.submit#btn": {
-    "message": "पासवर्ड सहेजें",
-    "description": "Button text"
+    "message": "पासवर्ड सहेजें"
   },
   "modals.changepwd.title": {
-    "message": "पासवर्ड बदलें",
-    "description": "Button text"
+    "message": "पासवर्ड बदलें"
   },
   "modals.createbucket.label1": {
-    "message": "मूल फ़ाइल:",
-    "description": "Section header, followed by a list"
+    "message": "मूल फ़ाइल:"
   },
   "modals.createbucket.p1": {
-    "message": "कैसे एक বা \"बाल्टी\" बनाने के लिए {{config.client.app_name}} स्क्रिप्ट या डेटा फ़ाइलों के स्नैपशॉट सार्वजनिक रूप से साझा किए जा सकते हैं।",
-    "description": "Paragraph of body text"
+    "message": "कैसे एक বা \"बाल्टी\" बनाने के लिए {{config.client.app_name}} स्क्रिप्ट या डेटा फ़ाइलों के स्नैपशॉट सार्वजनिक रूप से साझा किए जा सकते हैं।"
   },
   "modals.createbucket.p1@2": {
-    "message": "एक \"बकेट\" यह है कि कैसे स्क्रिप्ट या डेटा फ़ाइलों के स्नैपशॉट को सार्वजनिक रूप से साझा किया जा सकता है। स्क्रिप्ट और डेटा फ़ाइलों को व्यवस्थित करने के लिए एक \"प्रोजेक्ट\" एक संपादन योग्य कार्यक्षेत्र है।",
-    "description": "Paragraph of body text"
+    "message": "एक \"बकेट\" यह है कि कैसे स्क्रिप्ट या डेटा फ़ाइलों के स्नैपशॉट को सार्वजनिक रूप से साझा किया जा सकता है। स्क्रिप्ट और डेटा फ़ाइलों को व्यवस्थित करने के लिए एक \"प्रोजेक्ट\" एक संपादन योग्य कार्यक्षेत्र है।"
   },
   "modals.createbucket.p2": {
-    "message": "फ़ाइलों का चयन करें और दायां तीर बटन पर क्लिक करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "फ़ाइलों का चयन करें और दायां तीर बटन पर क्लिक करें।"
   },
   "modals.createbucket.p3": {
-    "message": "जब कोई बाल्टी देखता है तो मूल \"मूल स्क्रिप्ट\" स्क्रिप्ट स्वचालित रूप से चलती है।",
-    "description": "Paragraph of body text"
+    "message": "जब कोई बाल्टी देखता है तो मूल \"मूल स्क्रिप्ट\" स्क्रिप्ट स्वचालित रूप से चलती है।"
   },
   "modals.createbucket.p4": {
-    "message": "नीचे क्लिक करने के बाद, आपका ब्राउज़र आपकी नई बकेट को रिफ्रेश कर देगा। आप उस पृष्ठ का URL साझा कर सकते हैं जिस पर आपको पुनर्निर्देशित किया गया था।",
-    "description": "Paragraph of body text"
+    "message": "नीचे क्लिक करने के बाद, आपका ब्राउज़र आपकी नई बकेट को रिफ्रेश कर देगा। आप उस पृष्ठ का URL साझा कर सकते हैं जिस पर आपको पुनर्निर्देशित किया गया था।"
   },
   "modals.createbucket.p4p": {
-    "message": "नीचे क्लिक करने के बाद आपका ब्राउज़र आपके नए प्रोजेक्ट को रिफ्रेश कर देगा।",
-    "description": "Paragraph of body text"
+    "message": "नीचे क्लिक करने के बाद आपका ब्राउज़र आपके नए प्रोजेक्ट को रिफ्रेश कर देगा।"
   },
   "modals.createbucket.p5": {
-    "message": "{{config.redirect.hostname}} पर आप हमारी शॉर्ट लिंक सर्विस के माध्यम से  अपने बकेट अथवा प्रोजेक्ट के लिए कस्टम URL सेट कर सकते हैं ।",
-    "description": "Paragraph of body text"
+    "message": "{{config.redirect.hostname}} पर आप हमारी शॉर्ट लिंक सर्विस के माध्यम से  अपने बकेट अथवा प्रोजेक्ट के लिए कस्टम URL सेट कर सकते हैं ।"
   },
   "modals.createbucket.subhead1": {
-    "message": "वैकल्पिक: और फ़ाइलें जोड़ें",
-    "description": "Call to action, section header"
+    "message": "वैकल्पिक: और फ़ाइलें जोड़ें"
   },
   "modals.createbucket.subhead1@2": {
-    "message": "वैकल्पिक: और फ़ाइलें जोड़ें",
-    "description": "Call to action, section header"
+    "message": "वैकल्पिक: और फ़ाइलें जोड़ें"
   },
   "modals.createbucket.subhead1p": {
-    "message": "वैकल्पिक: प्रोजेक्ट में फ़ाइलें कॉपी करें",
-    "description": "Call to action, section header"
+    "message": "वैकल्पिक: प्रोजेक्ट में फ़ाइलें कॉपी करें"
   },
   "modals.createbucket.subhead2": {
-    "message": "जोड़ने के लिए फ़ाइलें",
-    "description": "Section header, followed by a list"
+    "message": "जोड़ने के लिए फ़ाइलें"
   },
   "modals.createbucket.subhead3": {
-    "message": "बाल्टी में फ़ाइलें",
-    "description": "Section header, followed by a list"
+    "message": "बाल्टी में फ़ाइलें"
   },
   "modals.createbucket.subhead3p": {
-    "message": "परियोजना में फ़ाइलें",
-    "description": "Section header, followed by a list"
+    "message": "परियोजना में फ़ाइलें"
   },
   "modals.createbucket.subhead4": {
-    "message": "वैकल्पिक: मुख्य फ़ाइल का चयन करें",
-    "description": "Call to action, section header"
+    "message": "वैकल्पिक: मुख्य फ़ाइल का चयन करें"
   },
   "modals.createbucket.subhead5": {
-    "message": "वैकल्पिक: कस्टम URL/ शॉर्ट लिंक",
-    "description": "Call to action, section header"
+    "message": "वैकल्पिक: कस्टम URL/ शॉर्ट लिंक"
   },
   "modals.createbucket.submit#btn": {
-    "message": "बाल्टी बनाओ",
-    "description": "Button text"
+    "message": "बाल्टी बनाओ"
   },
   "modals.createbucket.submitp#btn": {
-    "message": "प्रोजेक्ट बनाएं",
-    "description": "Button text"
+    "message": "प्रोजेक्ट बनाएं"
   },
   "modals.createbucket.title": {
-    "message": "बाल्टी को अनुकूलित करें",
-    "description": "Title of dialog box"
+    "message": "बाल्टी को अनुकूलित करें"
   },
   "modals.createbucket.titlep": {
-    "message": "परियोजना को अनुकूलित करें",
-    "description": "Title of dialog box"
+    "message": "परियोजना को अनुकूलित करें"
   },
   "modals.email.label1": {
-    "message": "अपना ईमेल पता दर्ज करें:",
-    "description": "Call to action, form field label"
+    "message": "अपना ईमेल पता दर्ज करें:"
   },
   "modals.email.p1": {
-    "message": "आपको अगली स्क्रीन पर एक 11-अंकीय कोड इनपुट करना होगा जो आपको ईमेल किया जाएगा। यदि आपको अपना कोड नहीं मिलता है, तो कृपया सहायता के लिए टिकट खोलें।",
-    "description": "Paragraph of body text"
+    "message": "आपको अगली स्क्रीन पर एक 11-अंकीय कोड इनपुट करना होगा जो आपको ईमेल किया जाएगा। यदि आपको अपना कोड नहीं मिलता है, तो कृपया सहायता के लिए टिकट खोलें।"
   },
   "modals.history.btn1": {
-    "message": "वर्ज़न कंट्रोल को लॉन्च करें।",
-    "description": "Button text"
+    "message": "वर्ज़न कंट्रोल को लॉन्च करें।"
   },
   "modals.history.btn2": {
-    "message": "ZIP आर्काइव जेनरेट करें।",
-    "description": "Button text"
+    "message": "ZIP आर्काइव जेनरेट करें।"
   },
   "modals.history.p1": {
-    "message": "एक Git वर्ज़न कंट्रोल सिस्टम के माध्यम से आपकी फाइलों में किए जाने वाले संशोधनों का ब्यौरा रखा जाता है।",
-    "description": "Paragraph of body text"
+    "message": "एक Git वर्ज़न कंट्रोल सिस्टम के माध्यम से आपकी फाइलों में किए जाने वाले संशोधनों का ब्यौरा रखा जाता है।"
   },
   "modals.history.p2": {
-    "message": "आपके ईमेल पर भेजे गए ZIP फ़ाइल स्नैपशॉट को प्राप्त करने की रिक्वेस्ट के लिए, नीचे दिए गए लिंक पर क्लिक करें। नोट: अगर आपने इस सेशन में अपनी फाइलों को एडिट किया है तो यह सुनिश्चित करने के लिए कि आपको एकदम नवीन (अप-टू-डेट) स्नैपशॉट प्राप्त हुआ है कृपया पहले \"रिफ़्रेश फ़ाइल\" बटन को दबाएँ।",
-    "description": "Paragraph of body text"
+    "message": "आपके ईमेल पर भेजे गए ZIP फ़ाइल स्नैपशॉट को प्राप्त करने की रिक्वेस्ट के लिए, नीचे दिए गए लिंक पर क्लिक करें। नोट: अगर आपने इस सेशन में अपनी फाइलों को एडिट किया है तो यह सुनिश्चित करने के लिए कि आपको एकदम नवीन (अप-टू-डेट) स्नैपशॉट प्राप्त हुआ है कृपया पहले \"रिफ़्रेश फ़ाइल\" बटन को दबाएँ।"
   },
   "modals.history.subtitle1": {
-    "message": "वर्ज़न कंट्रोल करें।",
-    "description": "Section title"
+    "message": "वर्ज़न कंट्रोल करें।"
   },
   "modals.history.subtitle2": {
-    "message": "स्नैपशॉट डाउनलोड करें।",
-    "description": "Section title"
+    "message": "स्नैपशॉट डाउनलोड करें।"
   },
   "modals.history.title": {
-    "message": "फ़ाइल हिस्ट्री",
-    "description": "Title of dialog box"
+    "message": "फ़ाइल हिस्ट्री"
   },
   "modals.password.p1": {
-    "message": "इसके बजाय \"ईमेल टोकन \" साइन-इन विकल्प का उपयोग करें। एक बार साइन इन करने के बाद, नया पासवर्ड सेट करने के लिए मेनू में \"पासवर्ड बदलें \" विकल्प का उपयोग करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "इसके बजाय \"ईमेल टोकन \" साइन-इन विकल्प का उपयोग करें। एक बार साइन इन करने के बाद, नया पासवर्ड सेट करने के लिए मेनू में \"पासवर्ड बदलें \" विकल्प का उपयोग करें।"
   },
   "modals.password.subhead1": {
-    "message": "नया उपयोगकर्ता? पासवर्ड भूल गए?",
-    "description": "Rhetorical question asked of the user"
+    "message": "नया उपयोगकर्ता? पासवर्ड भूल गए?"
   },
   "modals.patience.p1": {
-    "message": "हम्म, ऐसा लगता है कि सर्वर आज व्यस्त है! आपके जानने से पहले हम आपको कनेक्ट करेंगे। आपके धैर्य के लिए धन्यवाद।",
-    "description": "Paragraph of body text"
+    "message": "हम्म, ऐसा लगता है कि सर्वर आज व्यस्त है! आपके जानने से पहले हम आपको कनेक्ट करेंगे। आपके धैर्य के लिए धन्यवाद।"
   },
   "modals.patience.p2": {
-    "message": "प्रतीक्षा करने के लिए धन्यवाद। इसमें ज्यादा समय नहीं लगने वाला है। अपने इंटरनेट कनेक्शन को दोबारा जांचें। यदि आप सुनिश्चित हैं कि आपका इंटरनेट काम कर रहा है, तो सहायता से संपर्क करने पर विचार करें।",
-    "description": "Paragraph of body text"
+    "message": "प्रतीक्षा करने के लिए धन्यवाद। इसमें ज्यादा समय नहीं लगने वाला है। अपने इंटरनेट कनेक्शन को दोबारा जांचें। यदि आप सुनिश्चित हैं कि आपका इंटरनेट काम कर रहा है, तो सहायता से संपर्क करने पर विचार करें।"
   },
   "modals.upgrade.btn1": {
-    "message": "योजना देखें",
-    "description": "Button text"
+    "message": "योजना देखें"
   },
   "modals.upgrade.btn2": {
-    "message": "Patreon खाते लिंक करें",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Patreon खाते लिंक करें"
   },
   "modals.upgrade.btn3": {
-    "message": "Patreon खुले पैसे",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Patreon खुले पैसे"
   },
   "modals.upgrade.btn4": {
-    "message": "Patreon खाता लिंक जोड़ें",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Patreon खाता लिंक जोड़ें"
   },
   "modals.upgrade.p1": {
-    "message": "आपका अपना {{-pledgeAmountHTML}} प्रतिबद्धता के लिए धन्यवाद!",
-    "description": "Paragraph of body text"
+    "message": "आपका अपना {{-pledgeAmountHTML}} प्रतिबद्धता के लिए धन्यवाद!"
   },
   "modals.upgrade.p2": {
-    "message": "अपनी प्रतिबद्धता को स्थानांतरित करना चाहते हैं?",
-    "description": "Rhetorical question asked of the user"
+    "message": "अपनी प्रतिबद्धता को स्थानांतरित करना चाहते हैं?"
   },
   "modals.upgrade.p3": {
-    "message": "हर हफ्ते, {{config.client.app_name}} 100 तीन से अधिक देशों में हजारों छात्रों, शिक्षाविदों और शोधकर्ताओं को जोड़ता है। हमारे पास कोई पेवॉल नहीं है। यदि आप मुफ्त शैक्षिक सॉफ्टवेयर प्रदान करने के हमारे मिशन में विश्वास करते हैं, तो कृपया Patreon पर जाएँ {{config.client.app_name}} समर्थन में हमसे जुड़ें।",
-    "description": "Paragraph of body text; \"Patreon\" should not be translated"
+    "message": "हर हफ्ते, {{config.client.app_name}} 100 तीन से अधिक देशों में हजारों छात्रों, शिक्षाविदों और शोधकर्ताओं को जोड़ता है। हमारे पास कोई पेवॉल नहीं है। यदि आप मुफ्त शैक्षिक सॉफ्टवेयर प्रदान करने के हमारे मिशन में विश्वास करते हैं, तो कृपया Patreon पर जाएँ {{config.client.app_name}} समर्थन में हमसे जुड़ें।"
   },
   "modals.upgrade.title": {
-    "message": "अपग्रेड किया गया खाता",
-    "description": "Button text"
+    "message": "अपग्रेड किया गया खाता"
   },
   "modals.welcome_back.btn1": {
-    "message": "ठीक है।",
-    "description": "Button text"
+    "message": "ठीक है।"
   },
   "modals.welcome_back.p1": {
-    "message": "आपने काफ़ी समय से {{config.client.app_name}} का प्रयोग नहीं किया है ।वापस से पुनः शुरुआत करने के लिए आपके पास एक क्लीन वर्कस्पेस है। अपना पहले का डाटा रिस्टोर करने के लिए, मेन्यू में दिए गए कॉन्टेक्ट सपोर्ट बटन का प्रयोग करें।",
-    "description": "Paragraph of body text"
+    "message": "आपने काफ़ी समय से {{config.client.app_name}} का प्रयोग नहीं किया है ।वापस से पुनः शुरुआत करने के लिए आपके पास एक क्लीन वर्कस्पेस है। अपना पहले का डाटा रिस्टोर करने के लिए, मेन्यू में दिए गए कॉन्टेक्ट सपोर्ट बटन का प्रयोग करें।"
   },
   "modals.welcome_back.title": {
-    "message": "पुनः स्वागत है।",
-    "description": "Title of dialog box"
+    "message": "पुनः स्वागत है।"
   },
   "panel.output.github#btn": {
-    "message": "गिटहब में {{projectName}}",
-    "description": "Link text"
+    "message": "गिटहब में {{projectName}}"
   },
   "panel.output.upgraded#ui": {
-    "message": "उन्नत सत्र",
-    "description": "Description when hovering over an image"
+    "message": "उन्नत सत्र"
   },
   "panel.plot.description#ui": {
-    "message": "कथासार {{-lineNumberHTML}}",
-    "description": "Paragraph of body text"
+    "message": "कथासार {{-lineNumberHTML}}"
   },
   "panel.plot.download#btn": {
-    "message": "चित्र के अनुसार प्लॉट डाउनलोड करें",
-    "description": "Button text"
+    "message": "चित्र के अनुसार प्लॉट डाउनलोड करें"
   },
   "panel.plot.expand#btn": {
-    "message": "प्लॉट विंडो का विस्तार करें",
-    "description": "Button text"
+    "message": "प्लॉट विंडो का विस्तार करें"
   },
   "panel.plot.next#btn": {
-    "message": "अगला प्लॉट",
-    "description": "Button text"
+    "message": "अगला प्लॉट"
   },
   "panel.plot.prev#btn": {
-    "message": "पिछला प्लॉट",
-    "description": "Button text"
+    "message": "पिछला प्लॉट"
   },
   "panel.plot.zoom#btn": {
-    "message": "ज़ूम करने के लिए क्लिक करें",
-    "description": "Button text"
+    "message": "ज़ूम करने के लिए क्लिक करें"
   },
   "panel.prompt.add#btn": {
-    "message": "जोड़ना {{-numSecondsHTML}} सेकंड",
-    "description": "Button text with interpolated number; for example, \"Add 15 seconds\""
+    "message": "जोड़ना {{-numSecondsHTML}} सेकंड"
   },
   "panel.prompt.resume#btn": {
-    "message": "निष्पादन फिर से शुरू करें",
-    "description": "Button text"
+    "message": "निष्पादन फिर से शुरू करें"
   },
   "panel.prompt.seconds#ui": {
-    "message": "सेकंड शेष:",
-    "description": "Label, followed by a number"
+    "message": "सेकंड शेष:"
   },
   "panel.prompt.sigint#btn": {
-    "message": "वर्तमान में चल रहे कमांड को बंद करें (send SIGINT)",
-    "description": "Button text; \"SIGINT\" should not be translated"
+    "message": "वर्तमान में चल रहे कमांड को बंद करें (send SIGINT)"
   },
   "panel.prompt.upgrade#btn": {
-    "message": "अपग्रेड",
-    "description": "Button text"
+    "message": "अपग्रेड"
   },
   "panel.vars.title": {
-    "message": "परिवर्तनशील",
-    "description": "Section header"
+    "message": "परिवर्तनशील"
   },
   "promos.bucketcreate.p1": {
-    "message": "अपनी स्क्रिप्ट फ़ाइलों के स्नैपशॉट साझा करें!",
-    "description": "Call to action, paragraph of body text"
+    "message": "अपनी स्क्रिप्ट फ़ाइलों के स्नैपशॉट साझा करें!"
   },
   "promos.bucketcreate.p2": {
-    "message": "एक नया बकेट बनाने के लिए आइकन पर क्लिक करें.",
-    "description": "Call to action, paragraph of body text"
+    "message": "एक नया बकेट बनाने के लिए आइकन पर क्लिक करें."
   },
   "promos.bucketsbacklink.p1": {
-    "message": "अपनी खुद की बाल्टी और बाकी बनाओ{{config.client.app_name}}उपयोग करने के लिए साइन इन करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "अपनी खुद की बाल्टी और बाकी बनाओ{{config.client.app_name}}उपयोग करने के लिए साइन इन करें।"
   },
   "promos.instructor.p1": {
-    "message": "क्या आप जानते हैं कि आप अपनी कक्षा में हैं {{config.client.app_name}} उपयोग कर सकते हैं?",
-    "description": "Paragraph of body text"
+    "message": "क्या आप जानते हैं कि आप अपनी कक्षा में हैं {{config.client.app_name}} उपयोग कर सकते हैं?"
   },
   "promos.instructor.p2": {
-    "message": "यह जानने के लिए सहायता टिकट खोलें कि हम आपको एक प्रशिक्षक के रूप में कैसे स्थापित कर सकते हैं।",
-    "description": "Call to action, paragraph of body text"
+    "message": "यह जानने के लिए सहायता टिकट खोलें कि हम आपको एक प्रशिक्षक के रूप में कैसे स्थापित कर सकते हैं।"
   },
   "promos.login.p1": {
-    "message": "स्क्रिप्ट का उपयोग करना चाहते हैं?",
-    "description": "Rhetorical question asked of the user"
+    "message": "स्क्रिप्ट का उपयोग करना चाहते हैं?"
   },
   "promos.login.p2": {
-    "message": "स्क्रिप्ट फ़ाइलें बनाने और साझा करने के लिए साइन इन करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "स्क्रिप्ट फ़ाइलें बनाने और साझा करने के लिए साइन इन करें।"
   },
   "promos.prompt.btn1": {
-    "message": "साइन इन करें",
-    "description": "Call to action, button text"
+    "message": "साइन इन करें"
   },
   "promos.prompt.p1": {
-    "message": "यहां एक्सप्रेशन दर्ज करें और एंटर दबाएं।",
-    "description": "Paragraph of body text"
+    "message": "यहां एक्सप्रेशन दर्ज करें और एंटर दबाएं।"
   },
   "promos.prompt.p2": {
-    "message": "स्क्रिप्ट फ़ाइलों का उपयोग करने के लिए:",
-    "description": "Label, followed by a call to action button"
+    "message": "स्क्रिप्ट फ़ाइलों का उपयोग करने के लिए:"
   },
   "promos.prompt.title": {
-    "message": "ऑक्टेव कमांड प्रॉम्प्ट",
-    "description": "Section header"
+    "message": "ऑक्टेव कमांड प्रॉम्प्ट"
   },
   "promos.sharing.p1": {
-    "message": "साझाकरण सेट करें ताकि आप Google डॉक्स जैसे रीयल टाइम में अपनी स्क्रिप्ट फ़ाइलों को सामूहिक रूप से संपादित कर सकें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "साझाकरण सेट करें ताकि आप Google डॉक्स जैसे रीयल टाइम में अपनी स्क्रिप्ट फ़ाइलों को सामूहिक रूप से संपादित कर सकें।"
   },
   "promos.sharing.p1@2": {
-    "message": "Google डॉक्स जैसे अन्य लोगों को रीयल टाइम में अपनी स्क्रिप्ट फ़ाइलों को संपादित करने की अनुमति देने के लिए सहयोग सक्षम करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "Google डॉक्स जैसे अन्य लोगों को रीयल टाइम में अपनी स्क्रिप्ट फ़ाइलों को संपादित करने की अनुमति देने के लिए सहयोग सक्षम करें।"
   },
   "promos.sharing.subhead1": {
-    "message": "टिप:",
-    "description": "Section header"
+    "message": "टिप:"
   },
   "promos.sync.p1": {
-    "message": "अपनी स्क्रिप्ट फ़ाइलों के ऐतिहासिक संस्करण देखें!",
-    "description": "Call to action, paragraph of body text"
+    "message": "अपनी स्क्रिप्ट फ़ाइलों के ऐतिहासिक संस्करण देखें!"
   },
   "promos.sync.p2": {
-    "message": "अधिक जानकारी के लिए आइकन पर क्लिक करें।",
-    "description": "Call to action, paragraph of body text"
+    "message": "अधिक जानकारी के लिए आइकन पर क्लिक करें।"
   },
   "promos.welcome.p1": {
-    "message": "{{config.client.app_name}} जीएनयू ऑक्टेव के लिए एक वेब यूआई, यह मैटलैब के लिए एक ओपन-सोर्स विकल्प है। मशीन लर्निंग, कंट्रोल सिस्टम, नंबर सिस्टम आदि का अध्ययन करने के लिए दुनिया भर के हजारों छात्रों, शिक्षकों और शोधकर्ताओं द्वारा दैनिक{{config.client.app_name}} उपयोग किया जाता है।",
-    "description": "Paragraph of body text"
+    "message": "{{config.client.app_name}} जीएनयू ऑक्टेव के लिए एक वेब यूआई, यह मैटलैब के लिए एक ओपन-सोर्स विकल्प है। मशीन लर्निंग, कंट्रोल सिस्टम, नंबर सिस्टम आदि का अध्ययन करने के लिए दुनिया भर के हजारों छात्रों, शिक्षकों और शोधकर्ताओं द्वारा दैनिक{{config.client.app_name}} उपयोग किया जाता है।"
   },
   "promos.welcome.p2": {
-    "message": "जीएनयू ऑक्टेव या मैटलैब की स्थानीय कॉपी में अपनी इच्छानुसार प्रॉम्प्ट पर कमांड टाइप करें।",
-    "description": "Paragraph of body text describing what you can do on the site"
+    "message": "जीएनयू ऑक्टेव या मैटलैब की स्थानीय कॉपी में अपनी इच्छानुसार प्रॉम्प्ट पर कमांड टाइप करें।"
   },
   "promos.welcome.p3": {
-    "message": "प्लॉट चार्ट और ग्राफ।",
-    "description": "Paragraph of body text describing what you can do on the site"
+    "message": "प्लॉट चार्ट और ग्राफ।"
   },
   "promos.welcome.p4": {
-    "message": "अधिक सुविधाओं के लिए साइन इन करें: रीयल-टाइम सहयोग जैसे स्क्रिप्ट फ़ाइलें, बकेट, Google डॉक्स, विस्तारित रनटाइम और बहुत कुछ।",
-    "description": "Paragraph of body text with a call to action and also describing what you can do on the site"
+    "message": "अधिक सुविधाओं के लिए साइन इन करें: रीयल-टाइम सहयोग जैसे स्क्रिप्ट फ़ाइलें, बकेट, Google डॉक्स, विस्तारित रनटाइम और बहुत कुछ।"
   },
   "promos.welcome.start#btn": {
-    "message": "इस्तेमाल करना शुरू किजिए{{config.client.app_name}}",
-    "description": "Call to action, button text"
+    "message": "इस्तेमाल करना शुरू किजिए{{config.client.app_name}}"
   },
   "promos.welcome.title": {
-    "message": "स्वागत {{config.client.app_name}} हे",
-    "description": "Section header (shown prominently on page)"
+    "message": "स्वागत {{config.client.app_name}} हे"
   }
 }

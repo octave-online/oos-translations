@@ -1,794 +1,590 @@
 {
   "common.bucket": {
-    "message": "Bucket",
-    "description": "Name for a collection of files shared with other users; do not translate in Latin-script languages"
+    "message": "Bucket"
   },
   "common.caution#label": {
-    "message": "Advertencia:",
-    "description": "Label, followed by another sentence"
+    "message": "Advertencia:"
   },
   "common.dismiss#btn": {
-    "message": "Eliminar",
-    "description": "Button text"
+    "message": "Eliminar"
   },
   "common.email#ph": {
-    "message": "correo electrónico",
-    "description": "Placeholder text for form field"
+    "message": "correo electrónico"
   },
   "common.https#btn": {
-    "message": "Cámbiese a una conexión segura (http)",
-    "description": "Button text"
+    "message": "Cámbiese a una conexión segura (http)"
   },
   "common.https#p": {
-    "message": "Está utilizando una conexión no segura (http). Es posible que las personas puedan ver lo que envía.",
-    "description": "Paragraph of body text"
+    "message": "Está utilizando una conexión no segura (http). Es posible que las personas puedan ver lo que envía."
   },
   "common.loading#ui": {
-    "message": "Cargándose...",
-    "description": "Filler text when a component is not ready yet"
+    "message": "Cargándose..."
   },
   "common.loginrequired": {
-    "message": "Inicia sesión para realizar esta acción",
-    "description": "Error message"
+    "message": "Inicia sesión para realizar esta acción"
   },
   "common.password#ph": {
-    "message": "contraseña",
-    "description": "Placeholder text for form field"
+    "message": "contraseña"
   },
   "common.project": {
-    "message": "Proyecto",
-    "description": "Name for a workspace with files for editing and collaboration"
+    "message": "Proyecto"
   },
   "common.submit#btn": {
-    "message": "Enviar",
-    "description": "Button text"
-  },
-  "constants.shortlink_prefix": {
-    "message": "https://{{config.redirect.hostname}}/",
-    "description": "DO NOT TRANSLATE"
+    "message": "Enviar"
   },
   "editor.tips.a1": {
-    "message": "Lista completa",
-    "description": "Link text"
+    "message": "Lista completa"
   },
   "editor.tips.dd1": {
-    "message": "Muestre el menú de finalización automática",
-    "description": "Description of what a button will do"
+    "message": "Muestre el menú de finalización automática"
   },
   "editor.tips.dd2": {
-    "message": "Guarde el archivo",
-    "description": "Description of what a button will do"
+    "message": "Guarde el archivo"
   },
   "editor.tips.dd3": {
-    "message": "Ejecute el archivo",
-    "description": "Description of what a button will do"
+    "message": "Ejecute el archivo"
   },
   "editor.tips.dd4": {
-    "message": "Establezca el enfoque en el mensaje",
-    "description": "Description of what a button will do"
+    "message": "Establezca el enfoque en el mensaje"
   },
   "editor.tips.p1": {
-    "message": "Los archivos que realice en {{config.client.app_name}} se guardarán para la próxima vez que los verifique. Ellos serán eliminados después de 6 meses de inactividad.",
-    "description": "Paragraph of body text"
+    "message": "Los archivos que realice en {{config.client.app_name}} se guardarán para la próxima vez que los verifique. Ellos serán eliminados después de 6 meses de inactividad."
   },
   "editor.tips.p2": {
-    "message": "Accesos directos comunes:",
-    "description": "Label, followed by a list"
+    "message": "Accesos directos comunes:"
   },
   "editor.tips.subhead1": {
-    "message": "Combinaciones del teclado",
-    "description": "Section header"
+    "message": "Combinaciones del teclado"
   },
   "editor.tips.title": {
-    "message": "Consejos y trucos",
-    "description": "Section header"
+    "message": "Consejos y trucos"
   },
   "editor.toolbar.create#btn": {
-    "message": "Cree un archivo vacío",
-    "description": "Button text"
+    "message": "Cree un archivo vacío"
   },
   "editor.toolbar.delete#btn": {
-    "message": "ELIMINE el archivo",
-    "description": "Button text"
+    "message": "ELIMINE el archivo"
   },
   "editor.toolbar.download#btn": {
-    "message": "Descargue el archivo",
-    "description": "Button text"
+    "message": "Descargue el archivo"
   },
   "editor.toolbar.drop#ui": {
-    "message": "Coloque aquí los archivos para cargar",
-    "description": "Instruction for the user"
+    "message": "Coloque aquí los archivos para cargar"
   },
   "editor.toolbar.files#title": {
-    "message": "Archivos",
-    "description": "Section header"
+    "message": "Archivos"
   },
   "editor.toolbar.history#btn": {
-    "message": "Historial de versiones de archivos",
-    "description": "Button text"
+    "message": "Historial de versiones de archivos"
   },
   "editor.toolbar.print#btn": {
-    "message": "Imprima el archivo",
-    "description": "Button text"
+    "message": "Imprima el archivo"
   },
   "editor.toolbar.refresh#btn": {
-    "message": "Actualice los archivos",
-    "description": "Button text"
+    "message": "Actualice los archivos"
   },
   "editor.toolbar.rename#btn": {
-    "message": "Cambie el nombre del archivo",
-    "description": "Button text"
+    "message": "Cambie el nombre del archivo"
   },
   "editor.toolbar.run#btn": {
-    "message": "Ejecute la secuencia de comandos",
-    "description": "Button text"
+    "message": "Ejecute la secuencia de comandos"
   },
   "editor.toolbar.run#ui": {
-    "message": "EJECUTAR",
-    "description": "Button text to evaluate a script (appears prominently on page)"
+    "message": "EJECUTAR"
   },
   "editor.toolbar.save#btn": {
-    "message": "Guarde el archivo",
-    "description": "Button text"
+    "message": "Guarde el archivo"
   },
   "editor.toolbar.share#btn": {
-    "message": "Comparta el archivo en el nuevo bucket",
-    "description": "Button text"
+    "message": "Comparta el archivo en el nuevo bucket"
   },
   "editor.toolbar.toolbar#btn": {
-    "message": "Muestre la barra de herramientas",
-    "description": "Button text"
+    "message": "Muestre la barra de herramientas"
   },
   "editor.toolbar.upload#btn": {
-    "message": "Cargue el archivo",
-    "description": "Button text"
+    "message": "Cargue el archivo"
   },
   "editor.toolbar.wrap#btn": {
-    "message": "Alterne el ajuste del texto",
-    "description": "Button text"
+    "message": "Alterne el ajuste del texto"
   },
   "editor.unsupported.li1": {
-    "message": "El tipo de archivo no es compatible con este editor.",
-    "description": "Error text"
+    "message": "El tipo de archivo no es compatible con este editor."
   },
   "editor.unsupported.li2": {
-    "message": "El archivo está en formato binario, como imágenes.",
-    "description": "Error text"
+    "message": "El archivo está en formato binario, como imágenes."
   },
   "editor.unsupported.li3": {
-    "message": "El archivo es demasiado grande y no se puede cargar en el editor.",
-    "description": "Error text"
+    "message": "El archivo es demasiado grande y no se puede cargar en el editor."
   },
   "editor.unsupported.p1": {
-    "message": "El archivo actualmente elegido no se puede editar en línea. Puede aún utilizar la barra de herramientas anterior para cambiar el nombre, descargar y eliminar el archivo.  Las razones pueden incluir:",
-    "description": "Error text, ending with a label, followed by a list"
+    "message": "El archivo actualmente elegido no se puede editar en línea. Puede aún utilizar la barra de herramientas anterior para cambiar el nombre, descargar y eliminar el archivo.  Las razones pueden incluir:"
   },
   "editor.unsupported.title": {
-    "message": "Editor interactivo {{config.client.app_name}}",
-    "description": "Section header"
+    "message": "Editor interactivo {{config.client.app_name}}"
   },
   "header.buckets.delete#btn": {
-    "message": "Elimine el bucket",
-    "description": "Button text"
+    "message": "Elimine el bucket"
   },
   "header.buckets.delete#btn@2": {
-    "message": "Borrar bucket/proyecto",
-    "description": "Button text"
+    "message": "Borrar bucket/proyecto"
   },
   "header.buckets.title": {
-    "message": "Sus buckets:",
-    "description": "Label, followed by a number"
+    "message": "Sus buckets:"
   },
   "header.buckets.title@2": {
-    "message": "Buckets y proyectos:",
-    "description": "Label, followed by a number"
+    "message": "Buckets y proyectos:"
   },
   "header.meta.official.desc": {
-    "message": "Cree y comparta la secuencia de comandos para la computación científica con GNU Octave. Gratuito y de código abierto. Funciona en su navegador, incluso en Chromebook, iPad, tabletas y teléfonos inteligentes.",
-    "description": "Paragraph of body tex"
+    "message": "Cree y comparta la secuencia de comandos para la computación científica con GNU Octave. Gratuito y de código abierto. Funciona en su navegador, incluso en Chromebook, iPad, tabletas y teléfonos inteligentes."
   },
   "header.meta.official.title": {
-    "message": "{{config.client.app_name}} · Cloud IDE compatible con MATLAB",
-    "description": "Site Title"
+    "message": "{{config.client.app_name}} · Cloud IDE compatible con MATLAB"
   },
   "header.meta.server.desc": {
-    "message": "Su potencia de {{config.client.app_name}} se ejecuta en un hardware personalizado. Se utiliza bajo la licencia pública general de Affero (AGPL).",
-    "description": "Paragraph of body tex"
-  },
-  "header.meta.server.title": {
-    "message": "{{config.client.app_name}}",
-    "description": "Site Title (does not need translation)"
+    "message": "Su potencia de {{config.client.app_name}} se ejecuta en un hardware personalizado. Se utiliza bajo la licencia pública general de Affero (AGPL)."
   },
   "header.sidebar.changeemail#body": {
-    "message": "¿Ha iniciado la sesión antes, pero necesita cambiar su dirección de correo electrónico? Haga clic en \"Comentarios\" y cree un tíquet. Lo cambiaremos por ti.",
-    "description": "(OBSOLETE) Paragraph of body text"
+    "message": "¿Ha iniciado la sesión antes, pero necesita cambiar su dirección de correo electrónico? Haga clic en \"Comentarios\" y cree un tíquet. Lo cambiaremos por ti."
   },
   "header.sidebar.changelayout#btn": {
-    "message": "Cambie/Restablezca el diseño",
-    "description": "Button text"
+    "message": "Cambie/Restablezca el diseño"
   },
   "header.sidebar.changepassword#btn": {
-    "message": "Cambie la contraseña",
-    "description": "Button text"
+    "message": "Cambie la contraseña"
   },
   "header.sidebar.changetheme#btn": {
-    "message": "Cambie la temática",
-    "description": "Button text"
+    "message": "Cambie la temática"
   },
   "header.sidebar.createnewproject#btn": {
-    "message": "Crear nuevo proyecto",
-    "description": "Button text"
+    "message": "Crear nuevo proyecto"
   },
   "header.sidebar.disablesharing#btn": {
-    "message": "Desactive la distribución de archivos",
-    "description": "Button text"
+    "message": "Desactive la distribución de archivos"
   },
   "header.sidebar.disablesharing#btn@2": {
-    "message": "Deshabilitar colaboración",
-    "description": "Button text"
+    "message": "Deshabilitar colaboración"
   },
   "header.sidebar.enablesharing#btn": {
-    "message": "Comparta el espacio de trabajo",
-    "description": "Button text"
+    "message": "Comparta el espacio de trabajo"
   },
   "header.sidebar.enablesharing#btn@2": {
-    "message": "Habilitar colaboración",
-    "description": "Button text"
+    "message": "Habilitar colaboración"
   },
   "header.sidebar.enablesharing#tooltip": {
-    "message": "Habilitar las colaboraciones permite que otros editen su espacio de trabajo de inicio en tiempo real.",
-    "description": "Tooltip (additional explanation of what a button will do)"
+    "message": "Habilitar las colaboraciones permite que otros editen su espacio de trabajo de inicio en tiempo real."
   },
   "header.sidebar.enablesharingp#tooltip": {
-    "message": "Habilitar las colaboraciones permite que otros editen este proyecto en tiempo real.",
-    "description": "Tooltip (additional explanation of what a button will do)"
+    "message": "Habilitar las colaboraciones permite que otros editen este proyecto en tiempo real."
   },
   "header.sidebar.github#btn": {
-    "message": "Proyecto GitHub",
-    "description": "Link text"
+    "message": "Proyecto GitHub"
   },
   "header.sidebar.inlineplots#btn": {
-    "message": "Represente nuevas gráficas en línea",
-    "description": "Button text"
+    "message": "Represente nuevas gráficas en línea"
   },
   "header.sidebar.legal#btn": {
-    "message": "Política de privacidad y contrato de licencia de usuario final (CLUF)",
-    "description": "Button text"
+    "message": "Política de privacidad y contrato de licencia de usuario final (CLUF)"
   },
   "header.sidebar.patreon#btn": {
-    "message": "Actualice con Patreon",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Actualice con Patreon"
   },
   "header.sidebar.sharedesc#body": {
-    "message": "Otros pueden usar el siguiente enlace para conectarse a su espacio de trabajo.",
-    "description": "Paragraph of body text"
+    "message": "Otros pueden usar el siguiente enlace para conectarse a su espacio de trabajo."
   },
   "header.sidebar.signinemail#btn": {
-    "message": "Inicie sesión con su correo electrónico",
-    "description": "Button text"
+    "message": "Inicie sesión con su correo electrónico"
   },
   "header.sidebar.signingoogle#btn": {
-    "message": "Inicie sesión con Google",
-    "description": "Button text"
+    "message": "Inicie sesión con Google"
   },
   "header.sidebar.signinpassword#btn": {
-    "message": "Inicie sesión con su contraseña",
-    "description": "Button text"
+    "message": "Inicie sesión con su contraseña"
   },
   "header.sidebar.signout#btn": {
-    "message": "Cierre sesión",
-    "description": "Button text"
+    "message": "Cierre sesión"
   },
   "header.sidebar.support#btn": {
-    "message": "Comentarios y soporte al cliente",
-    "description": "Button text"
+    "message": "Comentarios y soporte al cliente"
   },
   "header.sidebar.textwrap#btn": {
-    "message": "Ajuste de líneas largas en la consola",
-    "description": "Button text"
+    "message": "Ajuste de líneas largas en la consola"
   },
   "header.sidebar.twitter#btn": {
-    "message": "Síguenos en Twitter",
-    "description": "Button text"
+    "message": "Síguenos en Twitter"
   },
   "header.site.adfallback#body": {
-    "message": "Haga su parte: apoye el Software Libre contribuyendo con US$3/mes.",
-    "description": "Text shown when advertisement is unavailable"
+    "message": "Haga su parte: apoye el Software Libre contribuyendo con US$3/mes."
   },
   "header.site.menu#btn": {
-    "message": "MENÚ",
-    "description": "Button text to show the menu (appears prominently on page)"
+    "message": "MENÚ"
   },
   "header.students.reenroll#btn": {
-    "message": "Mover",
-    "description": "Button text"
+    "message": "Mover"
   },
   "header.students.subhead1": {
-    "message": "Código:",
-    "description": "Label, followed by a list"
+    "message": "Código:"
   },
   "header.students.title": {
-    "message": "Estudiantes",
-    "description": "Section header"
+    "message": "Estudiantes"
   },
   "header.students.unenroll#btn": {
-    "message": "Retiro de la matrícula",
-    "description": "Button text"
+    "message": "Retiro de la matrícula"
   },
   "javascript.buckets.error1": {
-    "message": "Error: enlace corto nulo. Utilice al menos 5 letras, números, -, y _.",
-    "description": "Paragraph of body text"
+    "message": "Error: enlace corto nulo. Utilice al menos 5 letras, números, -, y _."
   },
   "javascript.buckets.error2": {
-    "message": "Error: ese enlace corto ya fue ocupado. Intente de nuevo.",
-    "description": "Paragraph of body text"
+    "message": "Error: ese enlace corto ya fue ocupado. Intente de nuevo."
   },
   "javascript.buckets.label1": {
-    "message": "Introduzca un nuevo enlace corto:",
-    "description": "Label for form field"
+    "message": "Introduzca un nuevo enlace corto:"
   },
   "javascript.console.exited#alert": {
-    "message": "Cierre de Octave. Mensaje:",
-    "description": "Label, followed by an error code"
+    "message": "Cierre de Octave. Mensaje:"
   },
   "javascript.console.payload#alert": {
-    "message": "AVISO: la ejecución se detuvo debido a una gran carga útil",
-    "description": "Paragraph of body text"
+    "message": "AVISO: la ejecución se detuvo debido a una gran carga útil"
   },
   "javascript.console.pingtime#label": {
-    "message": "Tiempo del comando ping:",
-    "description": "Label, followed by a number"
+    "message": "Tiempo del comando ping:"
   },
   "javascript.console.plotwindow#alert": {
-    "message": "Este botón muestra y oculta la ventana gráfica o de trazado.  Introduzca una expresión que genere un trazado.",
-    "description": "Paragraph of body text with call to action"
+    "message": "Este botón muestra y oculta la ventana gráfica o de trazado.  Introduzca una expresión que genere un trazado."
   },
   "javascript.console.readonly#alert": {
-    "message": "Nota: este es un bucket de solo lectura. Los cambios que realice no se conservarán después de cerrar la ventana de su navegador.",
-    "description": "Paragraph of body text"
+    "message": "Nota: este es un bucket de solo lectura. Los cambios que realice no se conservarán después de cerrar la ventana de su navegador."
   },
   "javascript.console.readonly#alert@2": {
-    "message": "Nota: este depósito es solo de lectura y las ediciones que hagas son temporales. Para que sus ediciones sean permanentes, bifurca el bucket haciendo clic en el nombre del bucket:",
-    "description": "Error message"
+    "message": "Nota: este depósito es solo de lectura y las ediciones que hagas son temporales. Para que sus ediciones sean permanentes, bifurca el bucket haciendo clic en el nombre del bucket:"
   },
   "javascript.console.reconnect#btn": {
-    "message": "Haga clic aquí para volver a conectarse",
-    "description": "Button text"
+    "message": "Haga clic aquí para volver a conectarse"
   },
   "javascript.console.reconnecting#alert": {
-    "message": "Se perdió la conexión.  Tratando de volver a conectarse...",
-    "description": "Paragraph of body text"
+    "message": "Se perdió la conexión.  Tratando de volver a conectarse..."
   },
   "javascript.console.refresh#alert": {
-    "message": "Esto volverá a cargar sus archivos desde el servidor. Los cambios no guardados se perderán.",
-    "description": "Paragraph of body text"
+    "message": "Esto volverá a cargar sus archivos desde el servidor. Los cambios no guardados se perderán."
   },
   "javascript.console.seeurl#label": {
-    "message": "Véase abajo:",
-    "description": "Label, followed by a URL link to documentation"
+    "message": "Véase abajo:"
   },
   "javascript.newfile.helloworld": {
-    "message": "Hola mundo",
-    "description": "Sample string used in programming"
+    "message": "Hola mundo"
   },
   "javascript.newfile.label": {
-    "message": "Introduzca un nombre de archivo:",
-    "description": "Label for form field"
+    "message": "Introduzca un nombre de archivo:"
   },
   "javascript.print.p1": {
-    "message": "Impreso por:",
-    "description": "Label, followed by a name or email"
+    "message": "Impreso por:"
   },
   "javascript.print.p2": {
-    "message": "Con tecnología de {{config.client.app_name}}",
-    "description": "Body text"
+    "message": "Con tecnología de {{config.client.app_name}}"
   },
   "javascript.rename.alert": {
-    "message": "El nombre detallado del archivo ya existe.",
-    "description": "Body text"
+    "message": "El nombre detallado del archivo ya existe."
   },
   "javascript.rename.label": {
-    "message": "Introduzca un nuevo nombre de archivo:",
-    "description": "Label for form field"
+    "message": "Introduzca un nuevo nombre de archivo:"
   },
   "javascript.students.course#label": {
-    "message": "Curso:",
-    "description": "Label, followed by a course code (like \"Math_101\")"
+    "message": "Curso:"
   },
   "javascript.students.enroll.p1": {
-    "message": "Debe iniciar sesión para inscribirse en un curso.",
-    "description": "Paragraph of body text"
+    "message": "Debe iniciar sesión para inscribirse en un curso."
   },
   "javascript.students.enroll.p2": {
-    "message": "Cuando se registre en un curso, los instructores de ese curso podrán acceder a los archivos que guarde.    Puede cancelar su matrícula o inscripción en cualquier momento ejecutando lo siguiente en el símbolo del sistema.",
-    "description": "Paragraph of body text"
+    "message": "Cuando se registre en un curso, los instructores de ese curso podrán acceder a los archivos que guarde.    Puede cancelar su matrícula o inscripción en cualquier momento ejecutando lo siguiente en el símbolo del sistema."
   },
   "javascript.students.enroll.p3": {
-    "message": "Presione Cancelar si no sabe lo que esto significa.",
-    "description": "Press Cancel if you don't know what any of this means."
+    "message": "Presione Cancelar si no sabe lo que esto significa."
   },
   "javascript.students.name#label": {
-    "message": "Nombre:",
-    "description": "Label, followed by a name or email"
+    "message": "Nombre:"
   },
   "javascript.students.reenroll.p1": {
-    "message": "Introduzca el código del curso que desea cambiar para este alumno:",
-    "description": "Label for form field"
+    "message": "Introduzca el código del curso que desea cambiar para este alumno:"
   },
   "javascript.students.reenroll.p2": {
-    "message": "El siguiente estudiante se está volviendo a inscribir.  Vuelva a cargar la página para ver la actualización.",
-    "description": "Paragraph of body text"
+    "message": "El siguiente estudiante se está volviendo a inscribir.  Vuelva a cargar la página para ver la actualización."
   },
   "javascript.students.reenroll.p3": {
-    "message": "Error: no se pudo encontrar el código del curso:",
-    "description": "Label, followed by a course code (like \"Math_101\")"
+    "message": "Error: no se pudo encontrar el código del curso:"
   },
   "javascript.students.unenroll.p1": {
-    "message": "¿Está seguro de que desea eliminar al siguiente alumno de su curso?",
-    "description": "Rhetorical question asked of the user"
+    "message": "¿Está seguro de que desea eliminar al siguiente alumno de su curso?"
   },
   "javascript.togglesharing.p1": {
-    "message": "No se puede desactivar la distribución de archivos, ya que el estudiante se registró en un código de curso {{config.client.app_name}}:",
-    "description": "Paragraph of body text, followed by a course code (like \"Math_101\")"
+    "message": "No se puede desactivar la distribución de archivos, ya que el estudiante se registró en un código de curso {{config.client.app_name}}:"
   },
   "javascript.togglesharing.p2": {
-    "message": "Debe eleminarse mediante la ejecución de este comando en el símbolo del sistema:",
-    "description": "Call to action, followed by a computer command"
+    "message": "Debe eleminarse mediante la ejecución de este comando en el símbolo del sistema:"
   },
   "modals.bucketinfo.btn1": {
-    "message": "Bifurcar este bucket",
-    "description": "Button text"
+    "message": "Bifurcar este bucket"
   },
   "modals.bucketinfo.btn1p": {
-    "message": "Bifurcar este proyecto",
-    "description": "Button text"
+    "message": "Bifurcar este proyecto"
   },
   "modals.bucketinfo.btn2": {
-    "message": "Cambiar enlace corto",
-    "description": "Button text"
+    "message": "Cambiar enlace corto"
   },
   "modals.bucketinfo.label1": {
-    "message": "Creado a las:",
-    "description": "Label, followed by a date and time"
+    "message": "Creado a las:"
   },
   "modals.bucketinfo.label2": {
-    "message": "Bifurcado desde:",
-    "description": "Label, followed by a link"
+    "message": "Bifurcado desde:"
   },
   "modals.bucketinfo.p1": {
-    "message": "Haz clic a continuación para hacer su propia copia de este bucket o proyecto.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Haz clic a continuación para hacer su propia copia de este bucket o proyecto."
   },
   "modals.changepwd.p1": {
-    "message": "Ingrese su nueva contraseña a continuación.\t  Para eliminar la contraseña y desactivar los inicios de sesión tomando en cuenta la contraseña, deje en blanco el campo de contraseña y haga clic en \"Guardar contraseña\".",
-    "description": "Call to action, paragraph of body text"
+    "message": "Ingrese su nueva contraseña a continuación.\t  Para eliminar la contraseña y desactivar los inicios de sesión tomando en cuenta la contraseña, deje en blanco el campo de contraseña y haga clic en \"Guardar contraseña\"."
   },
   "modals.changepwd.submit#btn": {
-    "message": "Guarde la contraseña",
-    "description": "Button text"
+    "message": "Guarde la contraseña"
   },
   "modals.changepwd.title": {
-    "message": "Cambie la contraseña",
-    "description": "Button text"
+    "message": "Cambie la contraseña"
   },
   "modals.createbucket.label1": {
-    "message": "Archivo principal:",
-    "description": "Section header, followed by a list"
+    "message": "Archivo principal:"
   },
   "modals.createbucket.p1": {
-    "message": "Un \"bucket\" es cómo compartir públicamente las instantáneas de la secuencia de comandos {{config.client.app_name}} o archivos de datos.",
-    "description": "Paragraph of body text"
+    "message": "Un \"bucket\" es cómo compartir públicamente las instantáneas de la secuencia de comandos {{config.client.app_name}} o archivos de datos."
   },
   "modals.createbucket.p1@2": {
-    "message": "Un \"bucket\" es la forma de compartir instantáneas de archivos de código y de datos. Un \"proyecto\" es un espacio de trabajo editable en donde organizar archivos de código y de datos.",
-    "description": "Paragraph of body text"
+    "message": "Un \"bucket\" es la forma de compartir instantáneas de archivos de código y de datos. Un \"proyecto\" es un espacio de trabajo editable en donde organizar archivos de código y de datos."
   },
   "modals.createbucket.p2": {
-    "message": "Seleccione los archivos y haga clic en el botón de flecha derecha.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Seleccione los archivos y haga clic en el botón de flecha derecha."
   },
   "modals.createbucket.p3": {
-    "message": "La secuencia de comandos \"principales\" se ejecuta automáticamente cuando alguien ve el bucket.",
-    "description": "Paragraph of body text"
+    "message": "La secuencia de comandos \"principales\" se ejecuta automáticamente cuando alguien ve el bucket."
   },
   "modals.createbucket.p4": {
-    "message": "Después de hacer clic a continuación, su navegador se actualizará en su nuevo bucket.  Puede compartir la dirección URL de la página a la que se le redirige.",
-    "description": "Paragraph of body text"
+    "message": "Después de hacer clic a continuación, su navegador se actualizará en su nuevo bucket.  Puede compartir la dirección URL de la página a la que se le redirige."
   },
   "modals.createbucket.p4p": {
-    "message": "Después de hacer clic a continuación, su navegador se refrescará y cargará su nuevo proyecto.",
-    "description": "Paragraph of body text"
+    "message": "Después de hacer clic a continuación, su navegador se refrescará y cargará su nuevo proyecto."
   },
   "modals.createbucket.p5": {
-    "message": "Puede establecer una URL personalizada para su Bucket o proyecto a través de nuestro servicio de enlaces cortos en {{config.redirect.hostname}}.",
-    "description": "Paragraph of body text"
+    "message": "Puede establecer una URL personalizada para su Bucket o proyecto a través de nuestro servicio de enlaces cortos en {{config.redirect.hostname}}."
   },
   "modals.createbucket.subhead1": {
-    "message": "Opcional: añada más archivos",
-    "description": "Call to action, section header"
+    "message": "Opcional: añada más archivos"
   },
   "modals.createbucket.subhead1@2": {
-    "message": "Opcional: añadir más archivos al bucket",
-    "description": "Call to action, section header"
+    "message": "Opcional: añadir más archivos al bucket"
   },
   "modals.createbucket.subhead1p": {
-    "message": "Opcional: copiar archivos al proyecto",
-    "description": "Call to action, section header"
+    "message": "Opcional: copiar archivos al proyecto"
   },
   "modals.createbucket.subhead2": {
-    "message": "Archivos para agregar",
-    "description": "Section header, followed by a list"
+    "message": "Archivos para agregar"
   },
   "modals.createbucket.subhead3": {
-    "message": "Archivos en bucket",
-    "description": "Section header, followed by a list"
+    "message": "Archivos en bucket"
   },
   "modals.createbucket.subhead3p": {
-    "message": "Archivos en el proyecto",
-    "description": "Section header, followed by a list"
+    "message": "Archivos en el proyecto"
   },
   "modals.createbucket.subhead4": {
-    "message": "Opcional: seleccione el archivo principal",
-    "description": "Call to action, section header"
+    "message": "Opcional: seleccione el archivo principal"
   },
   "modals.createbucket.subhead5": {
-    "message": "Opcional: URL personalizada/ enlace corto",
-    "description": "Call to action, section header"
+    "message": "Opcional: URL personalizada/ enlace corto"
   },
   "modals.createbucket.submit#btn": {
-    "message": "Cree un bucket",
-    "description": "Button text"
+    "message": "Cree un bucket"
   },
   "modals.createbucket.submitp#btn": {
-    "message": "Crear proyecto",
-    "description": "Button text"
+    "message": "Crear proyecto"
   },
   "modals.createbucket.title": {
-    "message": "Personalice el bucket",
-    "description": "Title of dialog box"
+    "message": "Personalice el bucket"
   },
   "modals.createbucket.titlep": {
-    "message": "Personalizar proyecto",
-    "description": "Title of dialog box"
+    "message": "Personalizar proyecto"
   },
   "modals.email.label1": {
-    "message": "Ingrese su dirección de correo electrónico:",
-    "description": "Call to action, form field label"
+    "message": "Ingrese su dirección de correo electrónico:"
   },
   "modals.email.p1": {
-    "message": "Se le enviará por correo electrónico un código de 11 dígitos que tendrá que introducir en la siguiente pantalla. Si no recibe su código, genere un tíquet de soporte para obtener ayuda.",
-    "description": "Paragraph of body text"
+    "message": "Se le enviará por correo electrónico un código de 11 dígitos que tendrá que introducir en la siguiente pantalla. Si no recibe su código, genere un tíquet de soporte para obtener ayuda."
   },
   "modals.history.btn1": {
-    "message": "Control de versión de lanzamiento",
-    "description": "Button text"
+    "message": "Control de versión de lanzamiento"
   },
   "modals.history.btn2": {
-    "message": "Generar archivo ZIP",
-    "description": "Button text"
+    "message": "Generar archivo ZIP"
   },
   "modals.history.p1": {
-    "message": "Las revisiones de sus archivos son rastreadas por un sistema de control de versiones de Git.",
-    "description": "Paragraph of body text"
+    "message": "Las revisiones de sus archivos son rastreadas por un sistema de control de versiones de Git."
   },
   "modals.history.p2": {
-    "message": "Para solicitar el envío de una instantánea en archivo ZIP a su correo electrónico, haga clic en el enlace de abajo. Nota: Si editó sus archivos durante esta sesión, haga clic en el botón \"Actualizar archivos\" para asegurarse de recibir la instantánea actualizada.",
-    "description": "Paragraph of body text"
+    "message": "Para solicitar el envío de una instantánea en archivo ZIP a su correo electrónico, haga clic en el enlace de abajo. Nota: Si editó sus archivos durante esta sesión, haga clic en el botón \"Actualizar archivos\" para asegurarse de recibir la instantánea actualizada."
   },
   "modals.history.subtitle1": {
-    "message": "Control de versión",
-    "description": "Section title"
+    "message": "Control de versión"
   },
   "modals.history.subtitle2": {
-    "message": "Descargar instantánea",
-    "description": "Section title"
+    "message": "Descargar instantánea"
   },
   "modals.history.title": {
-    "message": "Historial de archivo",
-    "description": "Title of dialog box"
+    "message": "Historial de archivo"
   },
   "modals.password.p1": {
-    "message": "Utilice en su lugar la opción de inicio de sesión \"token de correo electrónico\". Una vez que haya iniciado la sesión, utilice en el menú la opción \"Cambiar contraseña\" para establecer una nueva contraseña.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Utilice en su lugar la opción de inicio de sesión \"token de correo electrónico\". Una vez que haya iniciado la sesión, utilice en el menú la opción \"Cambiar contraseña\" para establecer una nueva contraseña."
   },
   "modals.password.subhead1": {
-    "message": "¿Es un nuevo usuario?\t ¿Olvidó su contraseña?",
-    "description": "Rhetorical question asked of the user"
+    "message": "¿Es un nuevo usuario?\t ¿Olvidó su contraseña?"
   },
   "modals.patience.p1": {
-    "message": "Mmm..., ¡Parece que el servidor está ocupado hoy!\t  Lo conectaremos antes de que se dé cuenta.  Gracias por su paciencia.",
-    "description": "Paragraph of body text"
+    "message": "Mmm..., ¡Parece que el servidor está ocupado hoy!\t  Lo conectaremos antes de que se dé cuenta.  Gracias por su paciencia."
   },
   "modals.patience.p2": {
-    "message": "Gracias por esperar.  No se supone que tome tanto tiempo.\t  Por favor, compruebe su conexión a internet.  Si está seguro de que su internet está funcionando, póngase en contacto con el soporte técnico.",
-    "description": "Paragraph of body text"
+    "message": "Gracias por esperar.  No se supone que tome tanto tiempo.\t  Por favor, compruebe su conexión a internet.  Si está seguro de que su internet está funcionando, póngase en contacto con el soporte técnico."
   },
   "modals.upgrade.btn1": {
-    "message": "Vea los planteamientos",
-    "description": "Button text"
+    "message": "Vea los planteamientos"
   },
   "modals.upgrade.btn2": {
-    "message": "Enlace de la cuenta Patreon",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Enlace de la cuenta Patreon"
   },
   "modals.upgrade.btn3": {
-    "message": "Cambio en Patreon",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Cambio en Patreon"
   },
   "modals.upgrade.btn4": {
-    "message": "Desenlace la cuenta Patreon",
-    "description": "Button text; \"Patreon\" should not be translated"
+    "message": "Desenlace la cuenta Patreon"
   },
   "modals.upgrade.p1": {
-    "message": "¡Gracias por su donanción {{-pledgeAmountHTML}}!",
-    "description": "Paragraph of body text"
+    "message": "¡Gracias por su donanción {{-pledgeAmountHTML}}!"
   },
   "modals.upgrade.p2": {
-    "message": "¿Desea transferir su donación?",
-    "description": "Rhetorical question asked of the user"
+    "message": "¿Desea transferir su donación?"
   },
   "modals.upgrade.p3": {
-    "message": "Cada semana, {{config.client.app_name}} conecta a decenas de miles de estudiantes, educadores e investigadores en más de 100 países.\t  No tenemos muros de pago.\t  Si cree en nuestra misión de proporcionar software educativo de forma gratuita, por favor, únase a nosotros apoyando {{config.client.app_name}}  de Patreon.",
-    "description": "Paragraph of body text; \"Patreon\" should not be translated"
+    "message": "Cada semana, {{config.client.app_name}} conecta a decenas de miles de estudiantes, educadores e investigadores en más de 100 países.\t  No tenemos muros de pago.\t  Si cree en nuestra misión de proporcionar software educativo de forma gratuita, por favor, únase a nosotros apoyando {{config.client.app_name}}  de Patreon."
   },
   "modals.upgrade.title": {
-    "message": "Actualice la cuenta",
-    "description": "Button text"
+    "message": "Actualice la cuenta"
   },
   "modals.welcome_back.btn1": {
-    "message": "\"OK\"",
-    "description": "Button text"
+    "message": "\"OK\""
   },
   "modals.welcome_back.p1": {
-    "message": "Ha pasado algún tiempo desde la última vez que visitó {{config.client.app_name}}. Usted cuenta con un área de trabajo limpia para empezar de cero. Si desea recuperar los datos de la última ocasión, póngase en contacto con soporte pulsando el botón correspondiente en el menú.",
-    "description": "Paragraph of body text"
+    "message": "Ha pasado algún tiempo desde la última vez que visitó {{config.client.app_name}}. Usted cuenta con un área de trabajo limpia para empezar de cero. Si desea recuperar los datos de la última ocasión, póngase en contacto con soporte pulsando el botón correspondiente en el menú."
   },
   "modals.welcome_back.title": {
-    "message": "¡Bienvenido una vez más!",
-    "description": "Title of dialog box"
+    "message": "¡Bienvenido una vez más!"
   },
   "panel.output.github#btn": {
-    "message": "{{projectName}} de GitHub",
-    "description": "Link text"
+    "message": "{{projectName}} de GitHub"
   },
   "panel.output.upgraded#ui": {
-    "message": "Sesión actualizada",
-    "description": "Description when hovering over an image"
+    "message": "Sesión actualizada"
   },
   "panel.plot.description#ui": {
-    "message": "Gráfico: línea {{-lineNumberHTML}}",
-    "description": "Paragraph of body text"
+    "message": "Gráfico: línea {{-lineNumberHTML}}"
   },
   "panel.plot.download#btn": {
-    "message": "Descargue el trazado como imagen",
-    "description": "Button text"
+    "message": "Descargue el trazado como imagen"
   },
   "panel.plot.expand#btn": {
-    "message": "Expanda la ventana del trazado",
-    "description": "Button text"
+    "message": "Expanda la ventana del trazado"
   },
   "panel.plot.next#btn": {
-    "message": "Siguiente trazado",
-    "description": "Button text"
+    "message": "Siguiente trazado"
   },
   "panel.plot.prev#btn": {
-    "message": "Trazado anterior",
-    "description": "Button text"
+    "message": "Trazado anterior"
   },
   "panel.plot.zoom#btn": {
-    "message": "Haga clic para hacer \"zoom\"",
-    "description": "Button text"
+    "message": "Haga clic para hacer \"zoom\""
   },
   "panel.prompt.add#btn": {
-    "message": "Añada los segundos {{-numSecondsHTML}}",
-    "description": "Button text with interpolated number; for example, \"Add 15 seconds\""
+    "message": "Añada los segundos {{-numSecondsHTML}}"
   },
   "panel.prompt.resume#btn": {
-    "message": "Reanude la ejecución",
-    "description": "Button text"
+    "message": "Reanude la ejecución"
   },
   "panel.prompt.seconds#ui": {
-    "message": "Segundos restantes:",
-    "description": "Label, followed by a number"
+    "message": "Segundos restantes:"
   },
   "panel.prompt.sigint#btn": {
-    "message": "Detenga el comando en ejecución (enviar una señal SIGINT)",
-    "description": "Button text; \"SIGINT\" should not be translated"
+    "message": "Detenga el comando en ejecución (enviar una señal SIGINT)"
   },
   "panel.prompt.upgrade#btn": {
-    "message": "Actualizar",
-    "description": "Button text"
+    "message": "Actualizar"
   },
   "panel.vars.title": {
-    "message": "Variables",
-    "description": "Section header"
+    "message": "Variables"
   },
   "promos.bucketcreate.p1": {
-    "message": "¡Comparta las instantáneas de sus archivos de secuencia de comandos!",
-    "description": "Call to action, paragraph of body text"
+    "message": "¡Comparta las instantáneas de sus archivos de secuencia de comandos!"
   },
   "promos.bucketcreate.p2": {
-    "message": "Haga clic en el ícono para crear un nuevo bucket.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Haga clic en el ícono para crear un nuevo bucket."
   },
   "promos.bucketsbacklink.p1": {
-    "message": "Inicie sesión para crear sus propios buckets y utilice el resto de {{config.client.app_name}}.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Inicie sesión para crear sus propios buckets y utilice el resto de {{config.client.app_name}}."
   },
   "promos.instructor.p1": {
-    "message": "¿Sabía que podía utilizar  en su clase {{config.client.app_name}}?",
-    "description": "Paragraph of body text"
+    "message": "¿Sabía que podía utilizar  en su clase {{config.client.app_name}}?"
   },
   "promos.instructor.p2": {
-    "message": "Genere un tíquet de soporte para solicitar información sobre cómo podemos configurarlo como instructor.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Genere un tíquet de soporte para solicitar información sobre cómo podemos configurarlo como instructor."
   },
   "promos.login.p1": {
-    "message": "¿Desea utilizar las secuencias de comandos?",
-    "description": "Rhetorical question asked of the user"
+    "message": "¿Desea utilizar las secuencias de comandos?"
   },
   "promos.login.p2": {
-    "message": "Inicie sesión para crear y compartir archivos de secuencia de comandos.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Inicie sesión para crear y compartir archivos de secuencia de comandos."
   },
   "promos.prompt.btn1": {
-    "message": "Inicie sesión",
-    "description": "Call to action, button text"
+    "message": "Inicie sesión"
   },
   "promos.prompt.p1": {
-    "message": "Escriba las enunciados aquí y presione Intro.",
-    "description": "Paragraph of body text"
+    "message": "Escriba las enunciados aquí y presione Intro."
   },
   "promos.prompt.p2": {
-    "message": "Para utilizar los archivos de secuencia de comandos:",
-    "description": "Label, followed by a call to action button"
+    "message": "Para utilizar los archivos de secuencia de comandos:"
   },
   "promos.prompt.title": {
-    "message": "Símbolo del sistema de Octave",
-    "description": "Section header"
+    "message": "Símbolo del sistema de Octave"
   },
   "promos.sharing.p1": {
-    "message": "Configure la distribución de archivos para que pueda editar sus archivos de secuencia de comandos de forma conjunta en tiempo real, como por ejemplo, Google Docs.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Configure la distribución de archivos para que pueda editar sus archivos de secuencia de comandos de forma conjunta en tiempo real, como por ejemplo, Google Docs."
   },
   "promos.sharing.p1@2": {
-    "message": "Habilite la colaboración para permitir que otros editen sus archivos de código en tiempo real, como en Google Docs.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Habilite la colaboración para permitir que otros editen sus archivos de código en tiempo real, como en Google Docs."
   },
   "promos.sharing.subhead1": {
-    "message": "Recomendaciones:",
-    "description": "Section header"
+    "message": "Recomendaciones:"
   },
   "promos.sync.p1": {
-    "message": "¡Infórmese sobre las versiones del historial de sus archivos de secuencia de comandos!",
-    "description": "Call to action, paragraph of body text"
+    "message": "¡Infórmese sobre las versiones del historial de sus archivos de secuencia de comandos!"
   },
   "promos.sync.p2": {
-    "message": "Haga clic en el ícono para obtener más información.",
-    "description": "Call to action, paragraph of body text"
+    "message": "Haga clic en el ícono para obtener más información."
   },
   "promos.welcome.p1": {
-    "message": "{{config.client.app_name}} es una interfaz de usuario web para GNU Octave, la alternativa de código abierto a MATLAB.\t  Miles de estudiantes, educadores e investigadores de todo el mundo utilizan cada día {{config.client.app_name}} para estudiar aprendizaje automático, sistemas de control, métodos numéricos, etc.",
-    "description": "Paragraph of body text"
+    "message": "{{config.client.app_name}} es una interfaz de usuario web para GNU Octave, la alternativa de código abierto a MATLAB.\t  Miles de estudiantes, educadores e investigadores de todo el mundo utilizan cada día {{config.client.app_name}} para estudiar aprendizaje automático, sistemas de control, métodos numéricos, etc."
   },
   "promos.welcome.p2": {
-    "message": "Escriba los comandos en la línea de sugerencia como lo haría en su copia local de GNU Octave o MATLAB.",
-    "description": "Paragraph of body text describing what you can do on the site"
+    "message": "Escriba los comandos en la línea de sugerencia como lo haría en su copia local de GNU Octave o MATLAB."
   },
   "promos.welcome.p3": {
-    "message": "Diseños y gráficos.",
-    "description": "Paragraph of body text describing what you can do on the site"
+    "message": "Diseños y gráficos."
   },
   "promos.welcome.p4": {
-    "message": "Inicie sesión para obtener más funciones: archivos de secuencia de comandos, buckets, colaboración en tiempo real, como por ejemplo, Google Docs, tiempo de ejecución prolongado, etc.",
-    "description": "Paragraph of body text with a call to action and also describing what you can do on the site"
+    "message": "Inicie sesión para obtener más funciones: archivos de secuencia de comandos, buckets, colaboración en tiempo real, como por ejemplo, Google Docs, tiempo de ejecución prolongado, etc."
   },
   "promos.welcome.start#btn": {
-    "message": "Empiece a utilizar {{config.client.app_name}}",
-    "description": "Call to action, button text"
+    "message": "Empiece a utilizar {{config.client.app_name}}"
   },
   "promos.welcome.title": {
-    "message": "Bienvenido a {{config.client.app_name}}",
-    "description": "Section header (shown prominently on page)"
+    "message": "Bienvenido a {{config.client.app_name}}"
   }
 }
