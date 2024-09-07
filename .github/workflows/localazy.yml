@@ -3,6 +3,7 @@ name: Localazy
 on: workflow_dispatch
 
 jobs:
+
   localazy-upload:
     name: Upload strings to Localazy
     runs-on: ubuntu-latest
@@ -12,3 +13,15 @@ jobs:
         with:
           read_key: ${{ secrets.LOCALAZY_READ_KEY }}
           write_key: ${{ secrets.LOCALAZY_WRITE_KEY }}
+
+  localazy-download-to-pr:
+    name: Download strings from Localazy and create PR
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: localazy/download@v1
+        with:
+          read_key: ${{ secrets.LOCALAZY_READ_KEY }}
+          write_key: ${{ secrets.LOCALAZY_WRITE_KEY }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
